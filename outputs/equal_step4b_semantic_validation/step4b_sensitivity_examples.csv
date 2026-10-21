@@ -1,0 +1,10 @@
+﻿edit,original,edited,cosine
+gender swap (male <-> female),"With pleasing personality, female and single","With pleasing personality, male and single",0.913
+gender swap (male <-> female),HR Recruitment Staff (Preferably Male),HR Recruitment Staff (Preferably Female),0.881
+gender swap (male <-> female),Male Applicant,Female Applicant,0.573
+number change (years + 4),Minimum of 1 to 2 years Store Supervisory Experience in a service-oriented Company,Minimum of 1 to 6 years Store Supervisory Experience in a service-oriented Company,0.991
+number change (years + 4),At least 2 years of work experience in the related position,At least 6 years of work experience in the related position,0.938
+number change (years + 4),Minimum 5 years experience in a similar function (telco background),Minimum 9 years experience in a similar function (telco background),0.976
+negation (With -> Without),With manufacturing experience,Without manufacturing experience,0.835
+negation (With -> Without),"With programming abilities in the ff: Microsoft .NET Technologies (C#/VB), Web Technologies (HTML/CSS/JavaScript/REST), Database (MSSQL/MySQL), Reporting Tools (Crystal/SSRS/Power BI)","Without programming abilities in the ff: Microsoft .NET Technologies (C#/VB), Web Technologies (HTML/CSS/JavaScript/REST), Database (MSSQL/MySQL), Reporting Tools (Crystal/SSRS/Power BI)",0.952
+negation (With -> Without),With good communication and strong presentation skills,Without good communication and strong presentation skills,0.876

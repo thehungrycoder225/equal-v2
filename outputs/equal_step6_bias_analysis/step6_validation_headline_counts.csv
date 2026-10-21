@@ -1,0 +1,10 @@
+,D1 Step 2 (primary),V1 Step 1 (indep. code),V2 Step 3 (indep. code)
+label: no_signal,1090,1090,1090
+label: communal_feminine_coded,193,193,193
+label: agentic_masculine_coded,164,164,164
+label: balanced,53,53,53
+direction: none,1078,1078,1078
+direction: male_restricted,207,207,207
+direction: female_restricted,112,112,112
+direction: inclusive_only,102,102,103
+direction: mixed_restrictions,1,1,0

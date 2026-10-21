@@ -1,0 +1,4 @@
+﻿task,n_sentences,class_counts,embedding_macro_f1,tfidf_macro_f1,majority_macro_f1
+gender requirement wording,31,"{'male_only': np.int64(14), 'both': np.int64(10), 'female_only': np.int64(7)}",0.848,0.841,0.228
+years of experience,460,"{'2-3 years': np.int64(188), '0-1 years': np.int64(158), '4+ years': np.int64(114)}",0.852,0.719,0.192
+education level,427,"{'college_degree': np.int64(198), 'vocational': np.int64(130), 'high_school': np.int64(99)}",0.938,0.965,0.21

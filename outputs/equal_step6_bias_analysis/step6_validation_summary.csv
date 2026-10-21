@@ -1,0 +1,4 @@
+check,direction_agree_pct,direction_kappa,label_agree_pct,label_kappa,masc_count_equal_pct,fem_count_equal_pct
+"A: V1 Step 1 unmasked, independent code",100.0,1.0,100.0,1.0,100.0,100.0
+"B: V2 Step 3 normalized, independent code",99.93,0.999,100.0,1.0,100.0,100.0
+C: V3 original notebook cues,99.73,0.994,76.73,0.361,,

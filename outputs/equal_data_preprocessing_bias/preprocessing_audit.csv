@@ -1,0 +1,10 @@
+﻿measure,count
+records,1500
+empty ad texts,0
+missing source values,1
+exact duplicate text rows beyond first occurrence,21
+exact duplicate text groups,21
+duplicate source rows beyond first occurrence,417
+unique non-empty source values,1082
+non-empty biased-phrase annotations,0
+non-empty non-biased-phrase annotations,0

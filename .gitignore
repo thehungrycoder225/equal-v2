@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+outputs/equal_step5_stageB_simcse/model/
+# raw data and restricted/original (unmasked) fields
+equal-data-set.xlsx
+*restricted*

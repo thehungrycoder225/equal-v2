@@ -69,6 +69,15 @@ wording, capitalization, punctuation, paragraph boundaries, and section
 headings were otherwise preserved. Stop-word removal, stemming, lemmatization,
 translation, and blanket punctuation removal were not applied.
 
+After Step 2 masking, the dedicated modeling-normalization stage in
+[`equal-step3-text-normalization.ipynb`](./equal-step3-text-normalization.ipynb)
+lowercases retained modeling text, removes common bullet markers at the start
+of lines, and collapses line breaks and other whitespace to single spaces.
+Punctuation within the wording is retained; no words are filtered, including
+gender-marked occupational nouns such as “Barista” and “Mechanic.” The Step 2
+masking output remains unchanged, and the normalized text is written to a
+separate Step 3 output.
+
 Employer identity was treated as a potential source of template-related
 signals. The first non-empty line of each advertisement was therefore
 identified as an employer *candidate*, not assumed to be an employer name,

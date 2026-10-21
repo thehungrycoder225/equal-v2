@@ -1,0 +1,6 @@
+﻿perturbation,n,median_cosine,p5_cosine,share_above_random_p99,self_retrieval_top1
+lowercase,600,0.99,0.859,0.998,0.95
+UPPERCASE,600,0.871,0.574,0.903,0.727
+strip trailing punctuation,600,1.0,1.0,1.0,0.998
+add bullet marker,600,0.989,0.973,1.0,0.985
+extra whitespace,600,1.0,1.0,1.0,1.0

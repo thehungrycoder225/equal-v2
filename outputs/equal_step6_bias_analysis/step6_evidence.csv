@@ -1,0 +1,466 @@
+record_id,evidence_type,evidence_text
+row-0003,explicit_inclusive,Female/Male
+row-0012,explicit_restrictive_male,Male
+row-0013,explicit_restrictive_male,Male
+row-0014,explicit_restrictive_female,Female
+row-0015,explicit_restrictive_female,Female
+row-0016,explicit_restrictive_male,Male
+row-0017,explicit_inclusive,Male/Female
+row-0018,explicit_restrictive_female,Female
+row-0020,explicit_inclusive,Male/Female
+row-0021,explicit_inclusive,Male/Female
+row-0022,explicit_restrictive_male,Male
+row-0023,explicit_restrictive_male,Male
+row-0024,explicit_restrictive_male,Male
+row-0025,explicit_restrictive_female,Female SRs must not be pregnant
+row-0026,explicit_restrictive_male,Male
+row-0027,explicit_inclusive,Male/Female
+row-0028,explicit_restrictive_male,Male
+row-0030,explicit_restrictive_male,Male
+row-0031,explicit_restrictive_male,Male
+row-0032,explicit_restrictive_male,Male
+row-0034,explicit_inclusive,Male/Female
+row-0035,explicit_inclusive,Male/Female
+row-0036,explicit_restrictive_male,Male
+row-0037,explicit_restrictive_male,Male
+row-0038,explicit_restrictive_female,Female
+row-0039,explicit_restrictive_female,Female
+row-0040,explicit_restrictive_female,Female
+row-0050,explicit_restrictive_female,Female
+row-0051,explicit_restrictive_male,Male
+row-0052,explicit_restrictive_female,Female
+row-0053,explicit_restrictive_female,Female
+row-0056,explicit_restrictive_male,Male
+row-0073,explicit_restrictive_female,Female
+row-0074,explicit_inclusive,Male/Female
+row-0075,explicit_inclusive,Male/Female
+row-0083,gendered_title,watchman
+row-0091,explicit_restrictive_male,Male
+row-0095,explicit_inclusive,Male/Female
+row-0097,explicit_restrictive_male,Male
+row-0098,explicit_restrictive_male,Male
+row-0099,explicit_restrictive_female,Female
+row-0100,explicit_restrictive_female,Female
+row-0102,explicit_inclusive,Male/Female
+row-0103,explicit_inclusive,Male/Female
+row-0104,explicit_restrictive_male,Male
+row-0109,explicit_inclusive,"Must be atleast one meter and sixty-two centimeters (1.62 cm) in height for Male and one meter and fifty-seven centimeters (1.57 cm) in height for Female, provided that a waiver for age requirement shall granted to applicants belonging to the Cultural Communities"
+row-0109,gender_differentiated_requirement,"Must be atleast one meter and sixty-two centimeters (1.62 cm) in height for Male and one meter and fifty-seven centimeters (1.57 cm) in height for Female, provided that a waiver for age requirement shall granted to applicants belonging to the Cultural Communities"
+row-0110,explicit_restrictive_female,Female
+row-0131,gendered_title,foreman
+row-0138,gendered_title,foreman
+row-0138,gendered_title,foreman
+row-0139,gendered_title,foreman
+row-0139,gendered_title,foreman
+row-0140,gendered_title,foreman
+row-0140,gendered_title,foreman
+row-0154,gendered_title,foreman
+row-0154,gendered_title,foreman
+row-0155,gendered_title,foreman
+row-0155,gendered_title,foreman
+row-0156,gendered_title,foreman
+row-0156,gendered_title,foreman
+row-0157,gendered_title,foreman
+row-0157,gendered_title,foreman
+row-0163,explicit_restrictive_male,Preferably male
+row-0176,gendered_title,saleslady
+row-0197,explicit_restrictive_female,Female
+row-0201,gendered_title,foreman
+row-0220,explicit_inclusive,Male or Female
+row-0221,explicit_restrictive_male,Male
+row-0236,explicit_inclusive,Male or Female
+row-0265,gendered_title,foreman
+row-0286,explicit_restrictive_male,Male Applicant
+row-0287,explicit_restrictive_male,Male Applicant
+row-0319,explicit_restrictive_female,Preferably Female
+row-0324,gendered_title,foreman
+row-0328,explicit_restrictive_male,"18-25 years old, male at least 5'5"" can work under pressure"
+row-0329,explicit_restrictive_female,Female
+row-0330,explicit_restrictive_male,Male
+row-0331,explicit_inclusive,Male/Female
+row-0332,explicit_restrictive_male,Male
+row-0333,explicit_restrictive_female,Female
+row-0334,explicit_restrictive_female,Female
+row-0347,explicit_restrictive_female,Female
+row-0349,explicit_inclusive,Male or Female
+row-0350,explicit_restrictive_female,Female
+row-0351,explicit_restrictive_female,Female
+row-0352,explicit_restrictive_female,Female
+row-0353,explicit_restrictive_female,Female
+row-0354,explicit_restrictive_female,Female
+row-0364,explicit_inclusive,Male/Female
+row-0366,explicit_restrictive_male,Male
+row-0367,explicit_restrictive_male,Male
+row-0401,explicit_restrictive_male,Male
+row-0402,explicit_restrictive_female,Female
+row-0404,explicit_restrictive_female,Female
+row-0405,explicit_restrictive_male,Male
+row-0409,explicit_restrictive_male,Male
+row-0412,explicit_restrictive_female,Female
+row-0418,explicit_restrictive_female,Female
+row-0419,explicit_restrictive_male,Male
+row-0421,explicit_restrictive_male,Male
+row-0422,explicit_restrictive_male,Male
+row-0424,explicit_restrictive_male,Male
+row-0425,explicit_restrictive_male,Male
+row-0426,explicit_restrictive_male,Male
+row-0434,explicit_restrictive_male,Male
+row-0441,explicit_restrictive_male,Male
+row-0449,explicit_restrictive_male,Male
+row-0451,explicit_restrictive_male,Male
+row-0452,explicit_restrictive_male,Male
+row-0453,explicit_restrictive_male,Male
+row-0454,explicit_restrictive_male,Male
+row-0455,explicit_restrictive_male,Male
+row-0456,explicit_restrictive_male,Male
+row-0457,explicit_restrictive_male,Male
+row-0458,explicit_restrictive_male,Male
+row-0459,explicit_restrictive_male,Male
+row-0460,explicit_restrictive_male,Male
+row-0461,gendered_noun,Farm Boy
+row-0461,explicit_restrictive_male,Male
+row-0462,explicit_restrictive_female,Female
+row-0463,explicit_restrictive_male,Male
+row-0464,explicit_restrictive_male,Male
+row-0471,explicit_restrictive_male,Male
+row-0472,explicit_restrictive_female,Female
+row-0473,explicit_restrictive_female,Female
+row-0474,explicit_restrictive_female,Female
+row-0475,explicit_restrictive_male,Male
+row-0477,explicit_restrictive_female,Female
+row-0481,explicit_inclusive,Male/Female
+row-0482,explicit_inclusive,Male/Female
+row-0483,explicit_restrictive_female,Female
+row-0491,explicit_restrictive_female,Female
+row-0492,explicit_restrictive_male,Male
+row-0496,explicit_restrictive_female,Female
+row-0501,explicit_restrictive_male,HR Recruitment Staff (Preferably Male)
+row-0507,explicit_restrictive_female,Female
+row-0510,explicit_restrictive_female,Female
+row-0511,explicit_restrictive_female,Female
+row-0512,explicit_inclusive,Male/Female
+row-0515,explicit_restrictive_male,Male
+row-0516,explicit_restrictive_female,Female
+row-0517,explicit_restrictive_male,Male
+row-0518,explicit_restrictive_male,Male
+row-0519,explicit_restrictive_male,Male
+row-0520,explicit_inclusive,Male and Female
+row-0521,explicit_restrictive_male,Male
+row-0522,explicit_restrictive_male,Male
+row-0528,explicit_restrictive_female,Female
+row-0539,explicit_restrictive_male,Male
+row-0540,explicit_inclusive,Male/Female
+row-0541,explicit_inclusive,Male/Female
+row-0542,explicit_inclusive,"At least 5'4"" height for Male and 5'0"" for Female"
+row-0542,gender_differentiated_requirement,"At least 5'4"" height for Male and 5'0"" for Female"
+row-0548,explicit_restrictive_male,Male only
+row-0549,explicit_restrictive_male,Male
+row-0550,explicit_inclusive,Male/Female
+row-0551,explicit_inclusive,Male/Female
+row-0552,explicit_restrictive_male,Male
+row-0553,explicit_restrictive_male,Male
+row-0554,explicit_inclusive,Male/Female
+row-0555,explicit_restrictive_male,Male
+row-0556,explicit_inclusive,Male/Female
+row-0557,explicit_restrictive_male,Male
+row-0558,explicit_restrictive_male,Male
+row-0563,explicit_inclusive,Male/Female
+row-0564,explicit_restrictive_female,Female
+row-0585,explicit_restrictive_male,Male
+row-0592,explicit_restrictive_male,Male
+row-0594,explicit_restrictive_female,Female
+row-0602,explicit_inclusive,Male or Female
+row-0603,explicit_restrictive_female,Female
+row-0604,explicit_restrictive_male,Male
+row-0605,explicit_restrictive_male,Male
+row-0606,explicit_restrictive_male,Male
+row-0607,explicit_restrictive_male,Male
+row-0608,explicit_inclusive,Male or Female
+row-0610,explicit_inclusive,Male or Female
+row-0611,explicit_inclusive,Male or Female
+row-0612,explicit_restrictive_male,Male
+row-0613,explicit_inclusive,Male or Female
+row-0616,explicit_restrictive_male,Male
+row-0617,explicit_inclusive,Male or Female
+row-0626,gendered_title,salesman
+row-0633,explicit_inclusive,Male or Female
+row-0634,explicit_inclusive,Male or Female
+row-0635,explicit_restrictive_female,Female
+row-0637,explicit_inclusive,Female or Male
+row-0648,explicit_restrictive_female,Female
+row-0650,explicit_restrictive_male,Male
+row-0651,explicit_restrictive_female,"With pleasing personality, female and single"
+row-0652,explicit_restrictive_female,"With pleasing personality, female and single"
+row-0653,explicit_restrictive_female,"With pleasing personality, female and single"
+row-0654,explicit_inclusive,Male or Female
+row-0655,explicit_inclusive,Male or Female
+row-0656,explicit_inclusive,Male or Female
+row-0657,explicit_restrictive_female,Female
+row-0658,explicit_restrictive_female,Female
+row-0660,explicit_inclusive,Male or Female
+row-0668,explicit_restrictive_male,Male
+row-0670,explicit_inclusive,Male or Female
+row-0671,explicit_inclusive,Male or Female
+row-0672,explicit_inclusive,Male or Female
+row-0673,explicit_restrictive_male,Male
+row-0674,explicit_restrictive_female,Female
+row-0675,explicit_restrictive_male,Male
+row-0676,explicit_restrictive_male,Male
+row-0677,explicit_restrictive_male,Male
+row-0678,explicit_inclusive,Male or Female
+row-0679,explicit_inclusive,Male or Female
+row-0680,explicit_restrictive_female,Female
+row-0681,explicit_inclusive,Male or Female
+row-0682,explicit_inclusive,Male or Female
+row-0685,explicit_restrictive_male,Preferably Male
+row-0705,explicit_restrictive_male,Male
+row-0706,explicit_restrictive_male,Male
+row-0707,explicit_inclusive,Female and Male
+row-0708,explicit_restrictive_male,Male
+row-0735,explicit_inclusive,Male or Female
+row-0736,explicit_inclusive,Male or Female
+row-0738,explicit_restrictive_female,Female
+row-0743,explicit_restrictive_female,Female
+row-0747,explicit_restrictive_male,Male
+row-0757,gendered_title,foreman
+row-0761,explicit_restrictive_male,Male
+row-0762,explicit_restrictive_male,Male
+row-0764,explicit_inclusive,Male/Female
+row-0765,explicit_inclusive,Male/Female
+row-0766,explicit_inclusive,Male/Female
+row-0767,gendered_title,salesman
+row-0770,explicit_restrictive_male,Male
+row-0771,explicit_restrictive_male,Male
+row-0772,explicit_restrictive_male,Male
+row-0773,explicit_restrictive_female,Female
+row-0786,gendered_title,foreman
+row-0802,explicit_restrictive_male,Male
+row-0808,explicit_restrictive_male,Male
+row-0809,explicit_restrictive_male,Male
+row-0810,explicit_restrictive_male,Male
+row-0824,explicit_inclusive,Male/Female
+row-0825,gendered_title,salesman
+row-0826,explicit_restrictive_female,Must be female
+row-0831,explicit_inclusive,Male or Female
+row-0832,explicit_restrictive_female,Female
+row-0846,explicit_restrictive_female,Preferably Female
+row-0850,explicit_restrictive_female,Female
+row-0851,explicit_restrictive_male,Male
+row-0852,explicit_restrictive_male,Male
+row-0863,explicit_restrictive_male,Male
+row-0870,gendered_title,foreman
+row-0871,explicit_inclusive,Male or Female
+row-0872,explicit_restrictive_female,Preferably female
+row-0882,gendered_title,foreman
+row-0895,explicit_restrictive_male,Male
+row-0896,explicit_restrictive_male,Male
+row-0897,explicit_restrictive_male,Male
+row-0898,explicit_inclusive,Male or Female
+row-0899,explicit_restrictive_female,Female
+row-0900,explicit_restrictive_male,Male
+row-0901,explicit_restrictive_female,Female
+row-0902,explicit_inclusive,Male or Female
+row-0906,explicit_restrictive_female,Female
+row-0907,explicit_inclusive,Male or Female
+row-0908,explicit_inclusive,Male or Female
+row-0926,explicit_inclusive,Male or Female
+row-0937,explicit_inclusive,Male or Female
+row-0938,explicit_restrictive_female,Female
+row-0939,explicit_inclusive,Male or Female
+row-0940,explicit_restrictive_female,Female
+row-0948,gendered_title,salesman
+row-0949,explicit_inclusive,Male/Female
+row-0950,gendered_title,salesman
+row-0951,gendered_title,salesman
+row-0951,gendered_title,salesman
+row-0967,explicit_restrictive_male,Male
+row-0968,explicit_inclusive,Male or Female
+row-0969,explicit_restrictive_male,Male
+row-0970,explicit_restrictive_male,Male
+row-0974,explicit_restrictive_female,Preferably female
+row-0988,explicit_restrictive_female,Female
+row-0989,explicit_restrictive_female,At least 5’4”(Female) in height
+row-0990,explicit_restrictive_male,Male
+row-0994,explicit_restrictive_female,Female
+row-0997,explicit_restrictive_male,Male
+row-0999,explicit_restrictive_male,Male
+row-1000,explicit_restrictive_male,Male
+row-1001,explicit_restrictive_female,Female
+row-1002,explicit_inclusive,Male or Female
+row-1003,explicit_restrictive_female,Female
+row-1004,explicit_restrictive_female,Female
+row-1005,explicit_restrictive_female,Female
+row-1008,explicit_restrictive_male,Preferably Male
+row-1012,explicit_restrictive_male,Male only
+row-1013,explicit_inclusive,Male or Female
+row-1014,explicit_inclusive,Male or Female
+row-1015,explicit_restrictive_male,Male
+row-1016,explicit_restrictive_male,Male
+row-1017,explicit_restrictive_male,Male
+row-1044,explicit_restrictive_female,Female
+row-1045,explicit_restrictive_female,Female
+row-1046,explicit_inclusive,Male or Female
+row-1076,explicit_restrictive_female,"With pleasing personality, female and single"
+row-1082,explicit_restrictive_male,"Male, with valid driver’s license (4-wheel and motorcycle)"
+row-1090,gendered_title,salesman
+row-1091,gendered_title,salesman
+row-1092,gendered_title,salesman
+row-1105,explicit_restrictive_female,Female
+row-1106,explicit_restrictive_male,Male
+row-1107,explicit_restrictive_male,Male
+row-1128,explicit_restrictive_male,Preferably male
+row-1129,explicit_restrictive_male,Preferably male
+row-1132,explicit_restrictive_female,Female
+row-1133,explicit_restrictive_female,Female
+row-1140,explicit_restrictive_female,Female
+row-1144,explicit_inclusive,Male or Female
+row-1145,explicit_restrictive_female,Female
+row-1146,explicit_restrictive_female,Female
+row-1149,explicit_restrictive_male,Male
+row-1149,gendered_title,salesman
+row-1150,gendered_title,salesman
+row-1151,explicit_inclusive,Male or Female
+row-1152,explicit_restrictive_male,Male
+row-1153,explicit_restrictive_male,Male
+row-1154,explicit_inclusive,Male or Female
+row-1183,explicit_restrictive_male,Male
+row-1184,explicit_restrictive_male,Male
+row-1185,explicit_restrictive_male,Male
+row-1186,explicit_restrictive_male,Male
+row-1187,explicit_restrictive_male,Male
+row-1188,explicit_restrictive_male,Male
+row-1189,explicit_restrictive_male,Male
+row-1190,explicit_restrictive_male,Male
+row-1191,explicit_restrictive_male,Male
+row-1192,explicit_restrictive_male,Male
+row-1193,explicit_restrictive_male,Male
+row-1194,explicit_restrictive_male,Male
+row-1196,explicit_restrictive_male,Preferably Male
+row-1215,explicit_restrictive_male,Male
+row-1216,explicit_restrictive_male,Male
+row-1217,explicit_restrictive_male,Male
+row-1218,explicit_inclusive,Male or Female
+row-1219,explicit_restrictive_female,Female
+row-1220,explicit_inclusive,Male or female
+row-1237,explicit_restrictive_male,Male
+row-1238,explicit_restrictive_male,Male
+row-1255,explicit_restrictive_male,Male
+row-1256,explicit_inclusive,Male or Female
+row-1257,explicit_inclusive,Male or Female
+row-1258,explicit_inclusive,Male or Female
+row-1259,explicit_restrictive_male,Male
+row-1260,explicit_inclusive,Male or Female
+row-1261,explicit_restrictive_male,Male
+row-1262,explicit_inclusive,Male or Female
+row-1263,explicit_inclusive,Male or Female
+row-1264,explicit_inclusive,Male or Female
+row-1265,explicit_inclusive,Male or Female
+row-1266,explicit_restrictive_male,Male
+row-1271,explicit_restrictive_male,Male
+row-1288,explicit_restrictive_male,Male
+row-1291,gendered_title,salesman
+row-1292,explicit_restrictive_female,Preferably female
+row-1293,explicit_inclusive,Male or Female
+row-1320,explicit_restrictive_male,Male only
+row-1339,explicit_inclusive,Male/Female
+row-1340,explicit_inclusive,Male/Female
+row-1341,explicit_restrictive_male,Male
+row-1360,explicit_restrictive_female,Female
+row-1363,explicit_restrictive_female,Preferably female
+row-1365,explicit_inclusive,"Male, Female, LGBT"
+row-1370,explicit_restrictive_female,Female
+row-1374,explicit_inclusive,Male/Female
+row-1375,explicit_inclusive,Male/Female
+row-1376,explicit_restrictive_male,Male
+row-1377,explicit_restrictive_female,Female
+row-1378,explicit_restrictive_male,Male
+row-1379,explicit_inclusive,Male/Female
+row-1380,explicit_inclusive,Male/Female
+row-1381,explicit_inclusive,Male/Female
+row-1382,explicit_restrictive_male,Male
+row-1383,explicit_restrictive_male,Male
+row-1384,gendered_noun,Steel man
+row-1384,explicit_restrictive_male,Male
+row-1385,explicit_restrictive_male,Male
+row-1386,explicit_inclusive,Male or Female
+row-1387,explicit_inclusive,Male or Female
+row-1388,explicit_restrictive_female,Female
+row-1389,explicit_restrictive_female,Female
+row-1395,explicit_restrictive_female,Female
+row-1396,explicit_inclusive,Male/Female
+row-1397,explicit_inclusive,Male/Female
+row-1400,explicit_restrictive_male,"Male, single/married"
+row-1401,explicit_restrictive_male,"Male, single/married"
+row-1405,explicit_restrictive_male,Male
+row-1406,explicit_restrictive_female,Female
+row-1407,explicit_restrictive_female,Female
+row-1408,explicit_restrictive_female,Female
+row-1409,explicit_restrictive_female,Female
+row-1410,explicit_restrictive_female,Female
+row-1412,explicit_restrictive_female,Female
+row-1414,explicit_restrictive_male,Male
+row-1415,explicit_restrictive_male,Male
+row-1416,explicit_restrictive_female,Female
+row-1422,explicit_restrictive_male,Male
+row-1423,explicit_restrictive_male,Male
+row-1424,explicit_restrictive_male,Male
+row-1425,explicit_restrictive_male,Male
+row-1426,explicit_restrictive_male,Male
+row-1427,explicit_restrictive_female,Female
+row-1427,explicit_restrictive_male,Male preferably can drive
+row-1428,explicit_restrictive_male,Male
+row-1430,explicit_inclusive,Male or Female
+row-1431,explicit_restrictive_male,Male
+row-1432,explicit_restrictive_male,Male
+row-1433,explicit_restrictive_male,Male
+row-1434,explicit_inclusive,Male or Female
+row-1436,explicit_restrictive_male,Male
+row-1437,explicit_restrictive_male,Male
+row-1438,explicit_restrictive_male,Male
+row-1439,explicit_restrictive_male,Male
+row-1440,explicit_restrictive_male,Male
+row-1441,gendered_noun,TP MAN Production
+row-1441,explicit_restrictive_male,Male
+row-1442,explicit_restrictive_male,Male
+row-1443,explicit_restrictive_male,Male
+row-1444,explicit_restrictive_male,Male
+row-1445,explicit_restrictive_female,Female
+row-1446,explicit_inclusive,Male or Female
+row-1447,explicit_restrictive_female,Female
+row-1449,explicit_restrictive_male,Male
+row-1450,explicit_restrictive_male,Male
+row-1451,explicit_restrictive_male,Male
+row-1452,explicit_restrictive_male,Male
+row-1453,explicit_restrictive_female,Female
+row-1455,explicit_restrictive_male,Male
+row-1456,explicit_restrictive_male,Male
+row-1457,explicit_restrictive_male,Male
+row-1458,explicit_restrictive_male,Male
+row-1460,explicit_restrictive_female,Female
+row-1461,explicit_restrictive_male,Male
+row-1462,explicit_restrictive_male,Male
+row-1463,explicit_restrictive_male,Male
+row-1464,explicit_restrictive_male,Male
+row-1465,explicit_restrictive_male,Male
+row-1466,explicit_restrictive_male,Male
+row-1467,explicit_restrictive_male,Male
+row-1468,explicit_restrictive_female,Female
+row-1476,explicit_restrictive_male,Male
+row-1477,explicit_restrictive_male,Male
+row-1478,explicit_inclusive,Male or Female
+row-1485,explicit_restrictive_female,Female
+row-1486,explicit_restrictive_male,Male
+row-1487,explicit_restrictive_male,Male
+row-1488,explicit_restrictive_male,Male
+row-1489,explicit_restrictive_female,Female
+row-1490,explicit_restrictive_male,Male
+row-1491,explicit_restrictive_female,Female
+row-1492,explicit_restrictive_male,Male
+row-1493,explicit_restrictive_female,Female
+row-1494,explicit_restrictive_male,Male
+row-1495,explicit_restrictive_male,Male
+row-1496,explicit_restrictive_male,Male
+row-1497,explicit_restrictive_male,Male
+row-1498,explicit_restrictive_female,Female
+row-1499,explicit_restrictive_female,Female
+row-1500,explicit_restrictive_female,Female

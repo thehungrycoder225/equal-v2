@@ -1,0 +1,5 @@
+﻿edit,n_pairs,median_cosine,p5_cosine,p95_cosine,share_above_lowercase_median
+gender swap (male <-> female),17,0.7910000085830688,0.45399999618530273,0.937,0.0
+number change (years + 4),300,0.9639999866485596,0.8809999823570251,0.991,0.077
+negation (With -> Without),300,0.9110000133514404,0.8259999752044678,0.97,0.003
+control: formatting only (lowercase),600,0.9900000095367432,0.859000027179718,,
