@@ -1,0 +1,10 @@
+﻿,pool_size,target,sampled,employers_in_sample
+coded_feminine,269,80,80,52
+coded_masculine,308,80,80,54
+control,6775,100,100,66
+inclusive_wording,102,102,86,52
+proxy_age,65,40,40,25
+proxy_appearance,90,60,60,41
+proxy_marital,41,40,30,18
+restrictive_female,113,60,60,49
+restrictive_male,208,60,60,39

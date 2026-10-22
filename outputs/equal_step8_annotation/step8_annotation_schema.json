@@ -1,0 +1,41 @@
+{
+  "bias_type": [
+    "explicit",
+    "implicit",
+    "neutral_statement",
+    "none",
+    "unclear"
+  ],
+  "attribute": [
+    "gender",
+    "age",
+    "marital_status",
+    "appearance_physical",
+    "education_socioeconomic",
+    "ethnicity",
+    "religion",
+    "disability",
+    "other",
+    "none"
+  ],
+  "explicit_direction": [
+    "male",
+    "female",
+    "both_listed",
+    "title_or_pronoun",
+    "na"
+  ],
+  "gender_coding": [
+    "agentic",
+    "communal",
+    "na"
+  ],
+  "language_quality_flag": [
+    "yes",
+    "no"
+  ],
+  "context_dependent": [
+    "yes",
+    "no"
+  ]
+}
