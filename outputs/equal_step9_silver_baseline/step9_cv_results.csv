@@ -1,0 +1,5 @@
+model,macro_F1,F1_none,PR_AUC_none,F1_implicit,PR_AUC_implicit,F1_explicit,PR_AUC_explicit
+tfidf_lr_balanced,0.92,0.979,0.994,0.799,0.875,0.98,0.996
+tfidf_lr_unweighted,0.888,0.977,0.995,0.723,0.866,0.965,0.996
+embedding_lr_balanced,0.831,0.94,0.989,0.603,0.716,0.95,0.996
+embedding_lr_unweighted,0.864,0.97,0.988,0.644,0.738,0.978,0.996

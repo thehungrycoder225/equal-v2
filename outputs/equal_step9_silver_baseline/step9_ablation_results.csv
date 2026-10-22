@@ -1,0 +1,2 @@
+model,macro_F1,F1_none,PR_AUC_none,F1_implicit,PR_AUC_implicit,F1_explicit,PR_AUC_explicit
+tfidf_lr_balanced_keywords_removed,0.685,0.902,0.981,0.51,0.557,0.644,0.817

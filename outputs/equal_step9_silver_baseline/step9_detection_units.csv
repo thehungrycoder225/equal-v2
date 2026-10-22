@@ -1,0 +1,27 @@
+﻿ad_id,unit_no,text,bias_label,attribute,direction,gender_coding,model_label,model_confidence,source,why
+yamaha,1,Yamaha,none,none,na,na,none,0.86,-,
+yamaha,2,Production Associates (70),none,none,na,na,none,0.87,-,
+yamaha,3,Qualifications:,none,none,na,na,none,0.89,-,
+yamaha,4,At least High School Graduate or 2-year Vocational Graduate or 2-year ~College Undergraduate,none,none,na,na,none,0.98,-,
+yamaha,5,With or without work experience,none,none,na,na,none,0.97,-,
+yamaha,6,Must be willing to render overtime,none,none,na,na,none,0.94,-,
+yamaha,7,Interested applicants may send their resumes to:,none,none,na,na,none,0.76,-,
+yamaha,8,Head Office:,none,none,na,na,none,0.91,-,
+yamaha,9,"Lots 1 & 2, Block 17, Phase I, LIMA Technology Center, Malvar, Batangas",none,none,na,na,none,0.91,-,
+yamaha,10,Tel. No.: [PHONE],none,none,na,na,none,0.9,-,
+puregold_hr_assistant,1,Puregold,none,none,na,na,none,0.85,-,
+puregold_hr_assistant,2,Human Resource Assistant,none,none,na,na,none,0.94,-,
+puregold_hr_assistant,3,Qualifications:,none,none,na,na,none,0.89,-,
+puregold_hr_assistant,4,Female/Male,explicit,gender,both_listed,na,explicit,1.0,rule + model agree,"lists both genders ('Male', 'Female'), limiting applicants to a stated gender"
+puregold_hr_assistant,5,"Graduate of BS Psychology, BSBA Human Resource Management, BS Behavioral Science or other related courses",none,none,na,na,none,0.96,-,
+puregold_hr_assistant,6,With at least 1 year experience in human resources functions,none,none,na,na,none,0.96,-,
+puregold_hr_assistant,7,With knowledge in implementing all human resources faucet,none,none,na,na,none,0.9,-,
+puregold_hr_assistant,8,"For inquiries and referral, visit or contact:",implicit,unspecified,na,na,implicit,0.66,model only - review,"no rule matched; model flagged it. Influential terms: and, for"
+puregold_hr_assistant,9,web.[URL],none,none,na,na,none,0.86,-,
+puregold_hr_assistant,10,Mobile No.: [PHONE],none,none,na,na,none,0.9,-,
+synthetic_test,1,Sales Associate,none,none,na,na,none,0.93,-,
+synthetic_test,2,Qualifications:,none,none,na,na,none,0.89,-,
+synthetic_test,3,"Single, 18-25 years old",explicit,"age, marital_status",na,na,explicit,0.98,rule + model agree,marital/civil-status requirement ('Single'); age limit ('18-25 years')
+synthetic_test,4,With pleasing personality,implicit,appearance_physical,na,na,implicit,0.98,rule + model agree,appearance/physical proxy ('pleasing personality')
+synthetic_test,5,Dependable and willing to be trained,implicit,gender,na,communal,none,0.52,rule (model said none),gender-coded wording (communal): dependable
+synthetic_test,6,Strong leadership and competitive spirit,implicit,gender,na,agentic,implicit,0.97,rule + model agree,"gender-coded wording (agentic): leadership, competitive"

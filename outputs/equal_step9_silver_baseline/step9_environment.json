@@ -1,0 +1,14 @@
+{
+  "python": "3.12.9",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+  "logical_cpus": 12,
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1",
+  "torch": "2.14.1+cpu",
+  "cuda_available": false,
+  "seed": 42,
+  "cv": "GroupKFold(5) by employer_id",
+  "ram_gb": 31.9
+}
