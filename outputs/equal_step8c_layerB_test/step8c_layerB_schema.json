@@ -1,0 +1,27 @@
+{
+  "bias_type": [
+    "explicit",
+    "implicit",
+    "none",
+    "unclear"
+  ],
+  "bias_presence": [
+    "biased",
+    "not_biased",
+    "unclear"
+  ],
+  "bias_subtype": [
+    "gender_exclusion",
+    "gender_preference",
+    "gender_stereotyping",
+    "gendered_role_language",
+    "none",
+    "unclear"
+  ],
+  "rewrite_action": [
+    "required",
+    "recommended",
+    "not_needed",
+    "manual_review"
+  ]
+}

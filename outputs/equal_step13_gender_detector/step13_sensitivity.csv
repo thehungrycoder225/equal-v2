@@ -1,0 +1,4 @@
+variant,n_units,biased_P,biased_R,biased_F1,F1_implicit,F1_explicit,macro_F1
+full text,7280,1.0,0.957,0.978,0.921,0.995,0.972
+keywords removed,7280,0.378,0.954,0.542,0.107,0.557,0.542
+distinct texts only,4288,1.0,0.917,0.957,0.933,1.0,0.978

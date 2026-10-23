@@ -1,0 +1,6 @@
+﻿ad_id,original,rewrite,status
+puregold_hr_assistant,Female/Male,Open to all qualified candidates,template
+yamaha,,,no explicit line
+synthetic_test,"Single, 18-25 years old",,deleted
+synthetic_test,"With pleasing personality, female and single",With pleasing personality,partial_strip
+synthetic_test,Preferably Male,Open to all qualified candidates,template

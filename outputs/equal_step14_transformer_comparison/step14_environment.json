@@ -1,0 +1,23 @@
+{
+  "python": "3.12.9",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1",
+  "seed": 42,
+  "cv": "GroupKFold(5) by employer_id",
+  "bootstrap": "1000 resamples of employers",
+  "text_model": "TfidfVectorizer(1-2 grams, min_df=2, sublinear_tf) + LogisticRegression(class_weight=balanced, max_iter=2000)",
+  "tagger": "DictVectorizer on word/prefix/suffix/shape/neighbour features + LogisticRegression(class_weight=balanced), threshold 0.5",
+  "torch": "2.14.1+cpu",
+  "transformers": "5.20.2",
+  "revisions": {
+    "bert-base-uncased": "86b5e0934494bd15c9632b12f734a8a67f723594",
+    "roberta-base": "e2da8e2f811d1448a5b465c236feacd80ffbac7b"
+  },
+  "epochs": 3,
+  "batch": 16,
+  "lr": 3e-05,
+  "max_len": 64,
+  "none_cap": 1500
+}

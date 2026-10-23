@@ -1,0 +1,12 @@
+{
+  "python": "3.12.9",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1",
+  "seed": 42,
+  "cv": "GroupKFold(5) by employer_id",
+  "bootstrap": "1000 resamples of employers",
+  "text_model": "TfidfVectorizer(1-2 grams, min_df=2, sublinear_tf) + LogisticRegression(class_weight=balanced, max_iter=2000)",
+  "tagger": "DictVectorizer on word/prefix/suffix/shape/neighbour features + LogisticRegression(class_weight=balanced), threshold 0.5"
+}

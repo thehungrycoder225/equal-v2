@@ -1,0 +1,38 @@
+﻿sentence,route,raw_output,rewrite,status,reasons,seconds,candidate,model_label_of_candidate,edit_similarity
+Physically fit and with navigation skills,llm,Physically fit,Physically fit and with navigation skills,rejected_by_checks,"appearance_remains, content_dropped",4.7,Physically fit,implicit,0.509
+With pleasing personality,llm,PLEASANT PERSONALITY,With pleasing personality,rejected_by_checks,new_coded_word,5.9,PLEASANT PERSONALITY,implicit,0.8
+Must be physically fit to walk long distances.,llm,Must be able to walk long distances.,Must be able to walk long distances.,accepted_by_checks,,6.7,Must be able to walk long distances.,none,0.829
+"Must have pleasing personality, in particular: a.",llm,"Must have a pleasing personality, in particular: a.","Must have pleasing personality, in particular: a.",rejected_by_checks,appearance_remains,7.7,"Must have a pleasing personality, in particular: a.",implicit,0.98
+"At least 5'3"" in height",manual_review_measurement,,"At least 5'3"" in height",manual_review_measurement,,0.0,,,
+WIth pleasing personality,llm,With a pleasing personality,WIth pleasing personality,rejected_by_checks,appearance_remains,5.0,With a pleasing personality,implicit,0.962
+Physically fit and have good moral character,llm,Physically fit,Physically fit and have good moral character,rejected_by_checks,"appearance_remains, content_dropped",4.6,Physically fit,implicit,0.483
+Pleasing Personality,llm,Pleasing Personality,Pleasing Personality,rejected_by_checks,appearance_remains,4.6,Pleasing Personality,implicit,1.0
+Physically fit and have a good moral character,llm,Physically fit,Physically fit and have a good moral character,rejected_by_checks,"appearance_remains, content_dropped",4.5,Physically fit,implicit,0.467
+"Physically fit, and good moral character",llm,Physically fit,"Physically fit, and good moral character",rejected_by_checks,"appearance_remains, content_dropped",4.5,Physically fit,implicit,0.519
+Physically fit,llm,DELETE,,accepted_by_checks,,3.8,,,
+Physically Fit,llm,DELETE,,accepted_by_checks,,3.9,,,
+"Must weigh not more or less than five kilograms (5kgs) from the standard weight corresponding to his/her height, age, and sex",manual_review_measurement,,"Must weigh not more or less than five kilograms (5kgs) from the standard weight corresponding to his/her height, age, and sex",manual_review_measurement,,0.0,,,
+Physically fit to work,llm,Physically fit,Physically fit to work,rejected_by_checks,"appearance_remains, content_dropped",4.6,Physically fit,implicit,0.778
+"Must have a pleasing personality, assertive, confident, and adaptable",llm,Must have a confident and adaptable personality,"Must have a pleasing personality, assertive, confident, and adaptable",rejected_by_checks,content_dropped,6.2,Must have a confident and adaptable personality,implicit,0.603
+"5'5"" of height",manual_review_measurement,,"5'5"" of height",manual_review_measurement,,0.0,,,
+"At least 5'4"" in height",manual_review_measurement,,"At least 5'4"" in height",manual_review_measurement,,0.0,,,
+have pleasing personality,llm,pleasing personality,have pleasing personality,rejected_by_checks,appearance_remains,4.3,pleasing personality,implicit,0.889
+"4'10"" Height",manual_review_measurement,,"4'10"" Height",manual_review_measurement,,0.0,,,
+"4'11"" to 5'6"" Height",manual_review_measurement,,"4'11"" to 5'6"" Height",manual_review_measurement,,0.0,,,
+"Height at least 5'1""",manual_review_measurement,,"Height at least 5'1""",manual_review_measurement,,0.0,,,
+Fair Complexion and Pleasing Personality,llm,Pleasing personality,Fair Complexion and Pleasing Personality,rejected_by_checks,appearance_remains,4.5,Pleasing personality,implicit,0.667
+With Pleasing personality,llm,Pleasing personality,With Pleasing personality,rejected_by_checks,appearance_remains,4.6,Pleasing personality,implicit,0.889
+Must be physically fit,llm,DELETE,,accepted_by_checks,,3.6,,,
+At least 5’2” in height,manual_review_measurement,,At least 5’2” in height,manual_review_measurement,,0.0,,,
+At least 5’4” in height,manual_review_measurement,,At least 5’4” in height,manual_review_measurement,,0.0,,,
+CANDIDATES MUST BE HEALTHY AND be physically fit,llm,CANDIDATES MUST BE PHYSICALLY FIT,CANDIDATES MUST BE HEALTHY AND be physically fit,rejected_by_checks,"appearance_remains, content_dropped",7.1,CANDIDATES MUST BE PHYSICALLY FIT,implicit,0.815
+Applicants must have a pleasing personality and able to interact with people well,llm,Applicants must have a pleasing personality,Applicants must have a pleasing personality and able to interact with people well,rejected_by_checks,"appearance_remains, content_dropped",5.8,Applicants must have a pleasing personality,implicit,0.694
+"Must be willing to start immediately, have good moral character, and be physically fit and healthy",llm,"Must be willing to start immediately, have good moral character, and be physically fit and healthy","Must be willing to start immediately, have good moral character, and be physically fit and healthy",rejected_by_checks,appearance_remains,9.6,"Must be willing to start immediately, have good moral character, and be physically fit and healthy",implicit,1.0
+Physically fit with the ability to lift heavy objects,llm,Physically fit with the ability to lift heavy objects,Physically fit with the ability to lift heavy objects,rejected_by_checks,appearance_remains,6.7,Physically fit with the ability to lift heavy objects,implicit,1.0
+"At least 6 months experience in LPG Piping or related experience, physically fit, knowledgeable in welding equipment",llm,"Physically fit, knowledgeable in welding equipment","At least 6 months experience in LPG Piping or related experience, physically fit, knowledgeable in welding equipment",rejected_by_checks,"appearance_remains, content_dropped",6.7,"Physically fit, knowledgeable in welding equipment",implicit,0.602
+With Pleasing Personality,llm,Pleasing personality,With Pleasing Personality,rejected_by_checks,appearance_remains,4.5,Pleasing personality,implicit,0.889
+Pleasing personality,llm,Pleasing personality,Pleasing personality,rejected_by_checks,appearance_remains,4.6,Pleasing personality,implicit,1.0
+With pleasing personality and able to interact with other people well,llm,With a pleasing personality and able to interact with other people well,With pleasing personality and able to interact with other people well,rejected_by_checks,appearance_remains,8.1,With a pleasing personality and able to interact with other people well,implicit,0.986
+Physically fit.,llm,DELETE,,accepted_by_checks,,3.6,,,
+With presentable looks,llm,With presentable looks,With presentable looks,rejected_by_checks,appearance_remains,4.8,With presentable looks,implicit,1.0
+"Well groomed, presentable and confident speaker",llm,Presentable and confident speaker,"Well groomed, presentable and confident speaker",rejected_by_checks,appearance_remains,5.1,Presentable and confident speaker,implicit,0.825

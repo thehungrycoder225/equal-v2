@@ -1,0 +1,11 @@
+system,subset,n,n_explicit,explicit_P,explicit_R,explicit_F1
+rules_as_written,all,13474,2912,0.783,0.084,0.153
+rules_as_written,consolidated+golden,1263,679,0.899,0.105,0.187
+rules_lemma_adapted,all,13474,2912,0.821,0.117,0.204
+rules_lemma_adapted,consolidated+golden,1263,679,0.906,0.141,0.245
+rules_lemma_no_marital,all,13474,2912,0.775,0.061,0.114
+rules_lemma_no_marital,consolidated+golden,1263,679,0.827,0.063,0.118
+step9_model_transfer,all,13474,2912,1.0,0.004,0.008
+step9_model_transfer,consolidated+golden,1263,679,1.0,0.003,0.006
+jabd_tfidf_lr_cv,all,13474,2912,0.75,0.672,0.709
+jabd_tfidf_lr_cv,consolidated+golden,1263,679,0.866,0.918,0.891

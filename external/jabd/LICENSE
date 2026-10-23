@@ -1,0 +1,296 @@
+Copyright (c) 2026 Martín Bórquez, Marcelo Mendoza, Vicente Lavagnino and
+Gonzalo Valdés, Pontificia Universidad Católica de Chile.
+
+JABD Open RAIL-D License
+(Open & Responsible AI License — Data)
+dated 6 August 2026
+
+This License is an adaptation, for a data artifact, of the Open RAIL family of
+licenses published by the Responsible AI Licenses initiative (https://licenses.ai),
+following the structure of the CreativeML Open RAIL-M license of 22 August 2022.
+The use restrictions in Attachment A have been extended for the recruitment domain.
+
+
+Section I: PREAMBLE
+
+The Job Advertisements Bias Dataset (JABD) is a corpus of recruitment text in which
+human annotators have marked the words and phrases that carry linguistic bias
+relating to gender, ethnicity, age, religion and disability. It exists so that
+researchers and practitioners can study, measure and reduce the ways recruitment
+language discourages qualified people from applying.
+
+That same property makes it dual-use. A resource that identifies which expressions
+attract or deter which groups can, if inverted, be used to compose exclusionary
+advertisements, or to search for wording that produces an exclusionary effect while
+evading detection. The corpus is also an imperfect instrument: it records that a
+protected attribute has been invoked, not that the invocation is hostile, and its
+labels for implicit ("Coded") categories carry documented, measured disagreement
+between annotators.
+
+This License therefore strives for both open and responsible downstream use. For
+the open character, we took inspiration from permissive open-source licenses in the
+grant of intellectual property rights: access, reuse, modification and
+redistribution are permitted free of charge, including for commercial purposes.
+For the responsible character, we add use-based restrictions that do not permit
+certain uses of the Data, so that the Licensor can act where misuse occurs.
+
+The restrictions travel with the Data. Downstream derivative versions may be
+released under different licensing terms, but those terms must always include - at
+minimum - the same use-based restrictions as the ones in this License. They apply
+to models trained on the Data exactly as they apply to the Data itself; training a
+model does not launder the restrictions away.
+
+NOW THEREFORE, You and Licensor agree as follows:
+
+
+1. Definitions
+
+- "License" means the terms and conditions for use, reproduction, and Distribution
+  as defined in this document.
+
+- "Data" means the JABD corpus made available under this License, comprising the
+  annotation layer (tokenised sentences, their labels at each level of the
+  taxonomy, and the accompanying annotation metadata) together with the
+  documentation distributed with it.
+
+- "Derivatives of the Data" means all modifications to the Data, works based on the
+  Data, and any other collection, corpus, model, classifier, lexicon, embedding or
+  other artifact that is created from, initialised by, trained on, fine-tuned on,
+  distilled from, or otherwise derived in whole or in part from the Data,
+  including synthetic data generated from it.
+
+- "Complementary Material" means the accompanying source code and scripts used to
+  define, load, split, validate, benchmark or evaluate the Data, and any
+  accompanying documentation, tutorials or examples.
+
+- "Output" means the results of operating a Derivative of the Data, as embodied in
+  informational content resulting therefrom - for example the spans a model trained
+  on the Data flags in a given advertisement.
+
+- "Distribution" means any transmission, reproduction, publication or other sharing
+  of the Data or Derivatives of the Data to a third party, including providing the
+  Data or a Derivative of the Data as a hosted service made available by electronic
+  or other remote means, e.g. API-based or web access.
+
+- "Licensor" means the copyright owner or entity authorized by the copyright owner
+  that is granting the License, including the persons or entities that may have
+  rights in the Data and/or distributing the Data.
+
+- "You" (or "Your") means an individual or Legal Entity exercising permissions
+  granted by this License and/or making use of the Data for whichever purpose and
+  in any field of use.
+
+- "Third Parties" means individuals or legal entities that are not under common
+  control with Licensor or You.
+
+- "Contribution" means any work of authorship, including the original version of
+  the Data and any modifications or additions to that Data or Derivatives of the
+  Data thereof, that is intentionally submitted to Licensor for inclusion in the
+  Data by the copyright owner or by an individual or Legal Entity authorized to
+  submit on behalf of the copyright owner. For the purposes of this definition,
+  "submitted" means any form of electronic, verbal, or written communication sent
+  to the Licensor or its representatives, including but not limited to
+  communication on electronic mailing lists, source code control systems, and issue
+  tracking systems that are managed by, or on behalf of, the Licensor for the
+  purpose of discussing and improving the Data, but excluding communication that is
+  conspicuously marked or otherwise designated in writing by the copyright owner as
+  "Not a Contribution."
+
+- "Contributor" means Licensor and any individual or Legal Entity on behalf of whom
+  a Contribution has been received by Licensor and subsequently incorporated within
+  the Data.
+
+
+Section II: INTELLECTUAL PROPERTY RIGHTS
+
+Both copyright and patent grants apply to the Data, Derivatives of the Data and
+Complementary Material. The Data and Derivatives of the Data are subject to
+additional terms as described in Section III.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License,
+each Contributor hereby grants to You a perpetual, worldwide, non-exclusive,
+no-charge, royalty-free, irrevocable copyright license to reproduce, prepare,
+publicly display, publicly perform, sublicense, and distribute the Complementary
+Material, the Data, and Derivatives of the Data.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License and
+where and as applicable, each Contributor hereby grants to You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in
+this paragraph) patent license to make, have made, use, offer to sell, sell,
+import, and otherwise transfer the Data and the Complementary Material, where such
+license applies only to those patent claims licensable by such Contributor that are
+necessarily infringed by their Contribution(s) alone or by combination of their
+Contribution(s) with the Data to which such Contribution(s) was submitted. If You
+institute patent litigation against any entity (including a cross-claim or
+counterclaim in a lawsuit) alleging that the Data and/or Complementary Material or
+a Contribution incorporated within the Data and/or Complementary Material
+constitutes direct or contributory patent infringement, then any patent licenses
+granted to You under this License for the Data and/or Work shall terminate as of
+the date such litigation is asserted or filed.
+
+
+Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION
+
+4. Distribution and Redistribution. You may host for Third Party remote access
+purposes (e.g. software-as-a-service), reproduce and distribute copies of the Data
+or Derivatives of the Data thereof in any medium, with or without modifications,
+provided that You meet the following conditions:
+
+  a. Use-based restrictions as referenced in paragraph 5 MUST be included as an
+     enforceable provision by You in any type of legal agreement (e.g. a license)
+     governing the use and/or distribution of the Data or Derivatives of the Data,
+     and You shall give notice to subsequent users You Distribute to, that the Data
+     or Derivatives of the Data are subject to paragraph 5. This provision does not
+     apply to the use of Complementary Material.
+  b. You must give any Third Party recipients of the Data or Derivatives of the
+     Data a copy of this License;
+  c. You must cause any modified files to carry prominent notices stating that You
+     changed the files;
+  d. You must retain all copyright, patent, trademark, and attribution notices
+     excluding those notices that do not pertain to any part of the Data,
+     Derivatives of the Data.
+  e. You must retain the datasheet distributed with the Data, or, where You have
+     modified the Data, distribute an updated datasheet that documents Your
+     modifications and their effect on the composition and known limitations of the
+     Data.
+
+  You may add Your own copyright statement to Your modifications and may provide
+  additional or different license terms and conditions - respecting paragraph 4.a. -
+  for use, reproduction, or Distribution of Your modifications, or for any such
+  Derivatives of the Data as a whole, provided Your use, reproduction, and
+  Distribution of the Data otherwise complies with the conditions stated in this
+  License.
+
+5. Use-based restrictions. The restrictions set forth in Attachment A are considered
+Use-based restrictions. Therefore You cannot use the Data and the Derivatives of the
+Data for the specified restricted uses. You may use the Data subject to this
+License, including only for lawful purposes and in accordance with the License. Use
+may include loading, analysing, annotating, augmenting, splitting, training on,
+fine-tuning on, evaluating with, and otherwise processing the Data. You shall
+require all of Your users who use the Data or a Derivative of the Data to comply
+with the terms of this paragraph (paragraph 5).
+
+6. The Output You Generate. Except as set forth herein, Licensor claims no rights in
+the Output You generate using a Derivative of the Data. You are accountable for the
+Output you generate and its subsequent uses. No use of the Output can contravene any
+provision as stated in the License.
+
+7. Source data. The Data annotates sentences drawn from the Employment Scam Aegean
+Dataset (EMSCAD), published by the University of the Aegean. This distribution
+contains the annotation layer only and does not redistribute EMSCAD advertisement
+text. Obtaining EMSCAD and complying with its terms is Your responsibility. Nothing
+in this License grants You any right in EMSCAD.
+
+
+Section IV: OTHER PROVISIONS
+
+8. Trademarks and related. Nothing in this License permits You to make use of
+Licensors' trademarks, trade names, logos or to otherwise suggest endorsement or
+misrepresent the relationship between the parties; and any rights not expressly
+granted herein are reserved by the Licensors.
+
+9. Disclaimer of Warranty. Unless required by applicable law or agreed to in
+writing, Licensor provides the Data and the Complementary Material (and each
+Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied, including, without limitation,
+any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS
+FOR A PARTICULAR PURPOSE. Without limiting the generality of the foregoing, the
+annotations are a research artifact carrying documented and measured label noise,
+described in the accompanying datasheet; agreement between annotators on the
+implicit ("Coded") categories is low, and a label is not a finding of fact. You are
+solely responsible for determining the appropriateness of using or redistributing
+the Data, Derivatives of the Data, and the Complementary Material and assume any
+risks associated with Your exercise of permissions under this License.
+
+10. Limitation of Liability. In no event and under no legal theory, whether in tort
+(including negligence), contract, or otherwise, unless required by applicable law
+(such as deliberate and grossly negligent acts) or agreed to in writing, shall any
+Contributor be liable to You for damages, including any direct, indirect, special,
+incidental, or consequential damages of any character arising as a result of this
+License or out of the use or inability to use the Data and the Complementary
+Material (including but not limited to damages for loss of goodwill, work stoppage,
+computer failure or malfunction, or any and all other commercial damages or losses),
+even if such Contributor has been advised of the possibility of such damages.
+
+11. Accepting Warranty or Additional Liability. While redistributing the Data,
+Derivatives of the Data and the Complementary Material thereof, You may choose to
+offer, and charge a fee for, acceptance of support, warranty, indemnity, or other
+liability obligations and/or rights consistent with this License. However, in
+accepting such obligations, You may act only on Your own behalf and on Your sole
+responsibility, not on behalf of any other Contributor, and only if You agree to
+indemnify, defend, and hold each Contributor harmless for any liability incurred by,
+or claims asserted against, such Contributor by reason of your accepting any such
+warranty or additional liability.
+
+12. If any provision of this License is held to be invalid, illegal or
+unenforceable, the remaining provisions shall be unaffected thereby and remain valid
+as if such provision had not been set forth herein.
+
+END OF TERMS AND CONDITIONS
+
+
+===============================================================================
+Attachment A
+
+USE RESTRICTIONS
+===============================================================================
+
+You agree not to use the Data or Derivatives of the Data:
+
+General
+
+- In any way that violates any applicable national, federal, state, local or
+  international law or regulation, or in violation of the terms of the EMSCAD
+  corpus from which the annotated sentences are drawn;
+- For the purpose of exploiting, harming or attempting to exploit or harm minors in
+  any way;
+- To generate or disseminate verifiably false information and/or content with the
+  purpose of harming others;
+- To generate or disseminate personal identifiable information that can be used to
+  harm an individual;
+- To defame, disparage or otherwise harass others;
+- To exploit any of the vulnerabilities of a specific group of persons based on
+  their age, social, physical or mental characteristics, in order to materially
+  distort the behavior of a person pertaining to that group in a manner that causes
+  or is likely to cause that person or another person physical or psychological
+  harm;
+- For any use intended to or which has the effect of discriminating against or
+  harming individuals or groups based on online or offline social behavior or known
+  or predicted personal or personality characteristics;
+- For any use intended to or which has the effect of discriminating against
+  individuals or groups based on legally protected characteristics or categories.
+
+Employment and recruitment
+
+- To make, inform, automate or materially assist any decision about an identified or
+  identifiable person, including screening, ranking, scoring, shortlisting,
+  rejecting, promoting, or setting the terms of employment. The Data describes
+  properties of text. It says nothing about a candidate, and it must not be made to;
+- For fully automated decision making that adversely impacts an individual's legal
+  rights or otherwise creates or modifies a binding, enforceable obligation;
+- To compose, tune or test recruitment language whose purpose or effect is to deter
+  or exclude applicants on the basis of a protected attribute, including inverting
+  the Data or any Derivative of the Data to discover wording that evades bias
+  detection while preserving its exclusionary effect;
+- To infer, impute or predict a protected attribute of any individual, whether an
+  applicant, an employee, or the author of an advertisement;
+- To deploy in any setting affecting a person's access to employment without
+  meaningful human review of each flagged span, and without disclosing to affected
+  parties that an automated tool is in use.
+
+Representation of results
+
+- To represent an Output as a legal determination of discrimination, as a compliance
+  certification, or as evidence of an employer's intent;
+- To represent an Output as establishing the presence of bias without disclosing the
+  measured reliability of the relevant category, including the low inter-annotator
+  agreement of the implicit ("Coded") categories and the exploratory status of the
+  Old Coded and Young Coded categories.
+
+Annotators
+
+- To attempt to re-identify any annotator who contributed to the Data, or to link
+  the pseudonymous annotator identifiers to any external record.
+
+These restrictions apply to You and to everyone You Distribute to. Any license You
+grant downstream must carry them forward unchanged.

@@ -1,0 +1,8 @@
+﻿ad_id,original,raw_output,rewrite,status,reasons
+single_test,With pleasing personality,PLEASANT PERSONALITY,With pleasing personality,rejected_by_checks,new_coded_word
+single_test,Physically fit and have a good moral character,Physically fit,Physically fit and have a good moral character,rejected_by_checks,"appearance_remains, content_dropped"
+single_test,"At least 5'4"" in height",,"At least 5'4"" in height",manual_review_measurement,
+retail_test,"Female, single",,"Female, single",explicit_line_left_for_step10_rules,
+retail_test,"Well groomed, presentable and confident speaker",Presentable and confident speaker,"Well groomed, presentable and confident speaker",rejected_by_checks,appearance_remains
+retail_test,Applicants must have a pleasing personality and able to interact with people well,Applicants must have a pleasing personality,Applicants must have a pleasing personality and able to interact with people well,rejected_by_checks,"appearance_remains, content_dropped"
+retail_test,Must be physically fit to walk long distances,Must be able to walk long distances,Must be able to walk long distances,accepted_by_checks,

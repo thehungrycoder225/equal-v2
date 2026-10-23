@@ -1,0 +1,4 @@
+status,distinct_texts,units
+accepted_by_checks,5,17
+manual_review_measurement,9,13
+rejected_by_checks,23,61

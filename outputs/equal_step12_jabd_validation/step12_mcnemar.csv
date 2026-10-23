@@ -1,0 +1,4 @@
+A,B,A_correct_B_wrong,A_wrong_B_correct,p_value
+r_lemma_nomarital,m_jabd_cv,668,1846,1.16e-126
+r_lemma_nomarital,m_transfer,168,53,4.02e-15
+m_transfer,m_jabd_cv,654,1947,5.65e-148

@@ -1,0 +1,43 @@
+{
+  "component": [
+    "job_title",
+    "qualification",
+    "body_other"
+  ],
+  "gender_reference": [
+    "yes",
+    "no"
+  ],
+  "gender_expression_type": [
+    "restriction",
+    "preference",
+    "binary_listing",
+    "gendered_title_pronoun",
+    "gender_coded",
+    "inclusive",
+    "none",
+    "unclear"
+  ],
+  "gender_direction": [
+    "male",
+    "female",
+    "multiple",
+    "unspecified",
+    "na"
+  ],
+  "gender_coding": [
+    "agentic",
+    "communal",
+    "mixed",
+    "na",
+    "unclear"
+  ],
+  "context_dependent": [
+    "yes",
+    "no"
+  ],
+  "language_quality_flag": [
+    "yes",
+    "no"
+  ]
+}

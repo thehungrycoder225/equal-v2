@@ -1,0 +1,51 @@
+﻿sentence,rewrite,status,occurrences
+Male,Open to all qualified candidates,template,191
+Female,Open to all qualified candidates,template,100
+Male or Female,Open to all qualified candidates,template,57
+Male/Female,Open to all qualified candidates,template,37
+Single or Married,,deleted,14
+Single,,deleted,13
+Single/Married,,deleted,7
+Not more than 40 years old,,deleted,5
+"With pleasing personality, female and single",With pleasing personality,partial_strip,4
+Preferably female,Open to all qualified candidates,template,4
+Male only,Open to all qualified candidates,template,3
+Preferably Single,,deleted,3
+Preferably Male,Open to all qualified candidates,template,3
+Preferably male,Open to all qualified candidates,template,3
+"Male, single/married",Open to all qualified candidates,template,2
+Preferably Female,Open to all qualified candidates,template,2
+Male Applicant,Open to all qualified candidates,template,2
+25-30 Years old,,deleted,2
+Female SRs must not be pregnant,Female SRs must not be pregnant,manual_review,1
+Atleast 15-20 years of experience handling Accounting & HR,Atleast 15-20 years of experience handling Accounting & HR,rule_false_positive,1
+At least 5’4”(Female) in height,At least 5’4”(Female) in height,manual_review,1
+"At least 5'4"" height for Male and 5'0"" for Female","At least 5'4"" height for Male and 5'0"" for Female",manual_review,1
+25-40 Years Old,,deleted,1
+"Ability to lift, carry, push, and pull up to 50 pounds","Ability to lift, carry, push, and pull up to 50 pounds",rule_false_positive,1
+25-35 years old,,deleted,1
+25 to 40 years old,,deleted,1
+18-30 years old,,deleted,1
+21 to 30 years old,,deleted,1
+21 to 27 years old,,deleted,1
+20-30 years old,,deleted,1
+"18-25 years old, male at least 5'5"" can work under pressure","18-25 years old, male at least 5'5"" can work under pressure",manual_review,1
+20 - 30 yrs old,,deleted,1
+18 to 40 years old,,deleted,1
+18-25 years old,,deleted,1
+Married,,deleted,1
+"Male, with valid driver’s license (4-wheel and motorcycle)",With valid driver’s license (4-wheel and motorcycle),partial_strip,1
+Male preferably can drive,Male preferably can drive,manual_review,1
+"Male, Female, LGBT","Male, Female, LGBT",manual_review,1
+Male or female,Open to all qualified candidates,template,1
+Female/Male,Open to all qualified candidates,template,1
+Female or Male,Open to all qualified candidates,template,1
+Male and Female,Open to all qualified candidates,template,1
+Female and Male,Open to all qualified candidates,template,1
+HR Recruitment Staff (Preferably Male),HR Recruitment Staff,partial_strip,1
+Not more than 35 years old,,deleted,1
+"Must be atleast one meter and sixty-two centimeters (1.62 cm) in height for Male and one meter and fifty-seven centimeters (1.57 cm) in height for Female, provided that a waiver for age requirement shall granted to applicants belonging to the Cultural Communities","Must be atleast one meter and sixty-two centimeters (1.62 cm) in height for Male and one meter and fifty-seven centimeters (1.57 cm) in height for Female, provided that a waiver for age requirement shall granted to applicants belonging to the Cultural Communities",manual_review,1
+Must be female,Open to all qualified candidates,template,1
+Preferably single,,deleted,1
+Single or married,,deleted,1
+Single/Married/Single Mother,,deleted,1

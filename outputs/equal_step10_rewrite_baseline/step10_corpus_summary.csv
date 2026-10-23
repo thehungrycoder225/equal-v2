@@ -1,0 +1,12 @@
+,value
+ads,1500.0
+units,7971.0
+ads_with_explicit_units,429.0
+explicit_units,484.0
+units_changed_or_removed,475.0
+units_unchanged_by_construction,7496.0
+share_of_all_units_changed,0.0596
+ads_fully_cleared_of_explicit_by_rules,420.0
+ads_needing_manual_review,7.0
+rule_false_positive_units,2.0
+mean_edit_similarity_partial_strip,0.756

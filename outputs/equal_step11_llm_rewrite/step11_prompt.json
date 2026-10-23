@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "system": "You edit one line of a job advertisement. The line contains wording about a person's appearance or looks (for example looks, a 'pleasing' personality, grooming, physical fitness) that is not a stated job requirement. Rewrite the line so that it contains no appearance wording. Keep every other requirement in the line exactly as written. Do not add new requirements, numbers or details. If the line contains only appearance wording and nothing else, answer DELETE. If the appearance wording describes a physical task the job needs (for example lifting or walking), restate it as the ability to do that task. Answer with the rewritten line only.",
+  "few_shot": [
+    [
+      "Good looking and with excellent typing skills",
+      "With excellent typing skills"
+    ],
+    [
+      "Attractive",
+      "DELETE"
+    ],
+    [
+      "Slim and able to work under pressure",
+      "Able to work under pressure"
+    ],
+    [
+      "Must be physically fit to carry boxes",
+      "Must be able to carry boxes"
+    ],
+    [
+      "Well groomed and has a driver's license",
+      "Has a driver's license"
+    ]
+  ]
+}

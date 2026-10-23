@@ -1,0 +1,7 @@
+model,variant,biased_P,biased_R,biased_F1,F1_implicit,F1_explicit,macro_F1,macro_F1_CI,macro_F1_diff_vs_tfidf,diff_95CI
+tfidf,full,0.991,0.983,0.987,0.921,0.995,0.972,0.889-0.992,,
+tfidf,keywords_removed,0.402,0.954,0.565,0.107,0.557,0.542,0.502-0.574,,
+bert-base-uncased,full,0.991,0.98,0.986,0.873,0.998,0.957,0.898-0.988,-0.015,-0.059 to 0.031
+bert-base-uncased,keywords_removed,0.943,0.761,0.842,0.069,0.0,0.354,0.340-0.369,-0.188,-0.226 to -0.143
+roberta-base,full,0.934,0.803,0.864,0.404,0.787,0.728,0.601-0.831,-0.244,-0.369 to -0.140
+roberta-base,keywords_removed,1.0,0.994,0.997,0.196,0.0,0.399,0.354-0.445,-0.143,-0.196 to -0.085

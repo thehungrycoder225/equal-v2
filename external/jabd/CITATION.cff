@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: "JABD — Job Advertisements Bias Dataset"
+message: "If you use this dataset, please cite both the dataset and the accompanying paper."
+type: dataset
+abstract: >-
+  A token-level, human-annotated corpus for studying linguistic bias in job
+  advertisements. 14,960 sentences drawn from 8,993 real postings, annotated
+  under a four-level taxonomy separating explicit from implicit bias across five
+  sociodemographic groups (gender, ethnicity, age, religion, disability), with
+  34,598 flagged spans over 12 leaf classes. Released as the annotation layer
+  only; the source advertisement text is not redistributed.
+authors:
+  - family-names: "Bórquez"
+    given-names: "Martín"
+    affiliation: "Pontificia Universidad Católica de Chile"
+  - family-names: "Mendoza"
+    given-names: "Marcelo"
+    affiliation: "Pontificia Universidad Católica de Chile"
+    # orcid: "https://orcid.org/TODO"
+  - family-names: "Lavagnino"
+    given-names: "Vicente"
+    affiliation: "Pontificia Universidad Católica de Chile"
+  - family-names: "Valdés"
+    given-names: "Gonzalo"
+    affiliation: "Pontificia Universidad Católica de Chile"
+keywords:
+  - language resource
+  - token-level annotation
+  - bias in job advertisements
+  - fairness
+  - named entity recognition
+  - evaluation benchmark
+license-url: "https://github.com/marcelomendoza/jabd/blob/main/LICENSE"
+version: "2.0"
+doi: "10.5281/zenodo.21828060"   # concept DOI: always resolves to the latest version
+date-released: "2026-08-06"
+repository-code: "https://github.com/marcelomendoza/jabd"
+preferred-citation:
+  type: article
+  title: "Detecting Bias in Job Advertisements"
+  authors:
+    - family-names: "Bórquez"
+      given-names: "Martín"
+    - family-names: "Mendoza"
+      given-names: "Marcelo"
+    - family-names: "Lavagnino"
+      given-names: "Vicente"
+    - family-names: "Valdés"
+      given-names: "Gonzalo"
+  journal: "Language Resources and Evaluation"
+  # year, volume, doi to be completed on acceptance

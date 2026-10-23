@@ -1,0 +1,485 @@
+﻿sentence_id,record_id,employer_id,sentence,silver_bias_type,rewrite,status,rule_explicit_after,appearance_after,model_after,edit_similarity
+row-0003-s002,row-0003,EMP-59e2d3e4,Female/Male,explicit,Open to all qualified candidates,template,False,False,none,0.279
+row-0012-s002,row-0012,EMP-5297d408,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0013-s002,row-0013,EMP-5297d408,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0014-s002,row-0014,EMP-5297d408,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0015-s002,row-0015,EMP-5297d408,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0016-s002,row-0016,EMP-80537d65,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0017-s002,row-0017,EMP-80537d65,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0018-s002,row-0018,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0020-s002,row-0020,EMP-50297181,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0021-s002,row-0021,EMP-80537d65,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0022-s002,row-0022,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0023-s002,row-0023,EMP-80537d65,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0024-s002,row-0024,EMP-a1737cb8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0025-s006,row-0025,EMP-e2caf65e,Female SRs must not be pregnant,explicit,Female SRs must not be pregnant,manual_review,True,False,explicit,1.0
+row-0026-s002,row-0026,EMP-8286a68d,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0027-s002,row-0027,EMP-36f9f9f1,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0028-s002,row-0028,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0029-s002,row-0029,EMP-4bca5d10,18-30 years old,explicit,,deleted,False,False,,0.0
+row-0030-s002,row-0030,EMP-6da905d0,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0031-s002,row-0031,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0032-s002,row-0032,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0034-s002,row-0034,EMP-50297181,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0035-s002,row-0035,EMP-50297181,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0036-s002,row-0036,EMP-dcf414a6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0037-s002,row-0037,EMP-02f15ad6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0037-s003,row-0037,EMP-02f15ad6,25-40 Years Old,explicit,,deleted,False,False,,0.0
+row-0038-s002,row-0038,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0039-s002,row-0039,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0040-s002,row-0040,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0050-s002,row-0050,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0051-s002,row-0051,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0052-s002,row-0052,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0053-s002,row-0053,EMP-c474d6a5,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0056-s003,row-0056,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0071-s005,row-0071,EMP-91458c95,25-30 Years old,explicit,,deleted,False,False,,0.0
+row-0072-s005,row-0072,EMP-91458c95,25-30 Years old,explicit,,deleted,False,False,,0.0
+row-0073-s002,row-0073,EMP-29b5ffbf,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0073-s003,row-0073,EMP-29b5ffbf,18-25 years old,explicit,,deleted,False,False,,0.0
+row-0074-s002,row-0074,EMP-c474d6a5,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0075-s002,row-0075,EMP-c474d6a5,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0091-s002,row-0091,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0095-s002,row-0095,EMP-c474d6a5,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0097-s002,row-0097,EMP-01fa72ad,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0098-s002,row-0098,EMP-59e2d3e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0099-s002,row-0099,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0100-s002,row-0100,EMP-59e2d3e4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0102-s002,row-0102,EMP-3b272467,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0103-s002,row-0103,EMP-3b272467,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0104-s002,row-0104,EMP-3b272467,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0109-s011,row-0109,EMP-6bca6477,"Must be atleast one meter and sixty-two centimeters (1.62 cm) in height for Male and one meter and fifty-seven centimeters (1.57 cm) in height for Female, provided that a waiver for age requirement shall granted to applicants belonging to the Cultural Communities",explicit,"Must be atleast one meter and sixty-two centimeters (1.62 cm) in height for Male and one meter and fifty-seven centimeters (1.57 cm) in height for Female, provided that a waiver for age requirement shall granted to applicants belonging to the Cultural Communities",manual_review,True,True,explicit,1.0
+row-0110-s002,row-0110,EMP-94f2e282,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0163-s002,row-0163,EMP-80574e4c,Preferably male,explicit,Open to all qualified candidates,template,False,False,none,0.255
+row-0197-s002,row-0197,EMP-484120f5,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0219-s003,row-0219,EMP-2ad25376,25 to 40 years old,explicit,,deleted,False,False,,0.0
+row-0220-s003,row-0220,EMP-2ad25376,21 to 27 years old,explicit,,deleted,False,False,,0.0
+row-0220-s004,row-0220,EMP-2ad25376,Single,explicit,,deleted,False,False,,0.0
+row-0220-s005,row-0220,EMP-2ad25376,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0221-s003,row-0221,EMP-2ad25376,21 to 30 years old,explicit,,deleted,False,False,,0.0
+row-0221-s004,row-0221,EMP-2ad25376,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0236-s002,row-0236,EMP-74cf88c1,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0236-s003,row-0236,EMP-74cf88c1,Single or Married,explicit,,deleted,False,False,,0.0
+row-0286-s004,row-0286,EMP-fb8539f9,Male Applicant,explicit,Open to all qualified candidates,template,False,False,none,0.435
+row-0287-s004,row-0287,EMP-fb8539f9,Male Applicant,explicit,Open to all qualified candidates,template,False,False,none,0.435
+row-0319-s002,row-0319,EMP-3ab4f757,Preferably Female,explicit,Open to all qualified candidates,template,False,False,none,0.245
+row-0328-s006,row-0328,EMP-42d2e643,"18-25 years old, male at least 5'5"" can work under pressure",explicit,"18-25 years old, male at least 5'5"" can work under pressure",manual_review,True,False,explicit,1.0
+row-0329-s002,row-0329,EMP-484120f5,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0329-s004,row-0329,EMP-484120f5,Single/Married/Single Mother,explicit,,deleted,False,False,,0.0
+row-0330-s002,row-0330,EMP-484120f5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0330-s004,row-0330,EMP-484120f5,Single,explicit,,deleted,False,False,,0.0
+row-0331-s002,row-0331,EMP-484120f5,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0331-s004,row-0331,EMP-484120f5,Single,explicit,,deleted,False,False,,0.0
+row-0332-s002,row-0332,EMP-484120f5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0332-s004,row-0332,EMP-484120f5,Single,explicit,,deleted,False,False,,0.0
+row-0333-s002,row-0333,EMP-484120f5,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0333-s004,row-0333,EMP-484120f5,Single,explicit,,deleted,False,False,,0.0
+row-0334-s002,row-0334,EMP-484120f5,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0334-s004,row-0334,EMP-484120f5,Single,explicit,,deleted,False,False,,0.0
+row-0347-s003,row-0347,EMP-b75aaadb,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0349-s002,row-0349,EMP-12cbd4fe,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0350-s002,row-0350,EMP-12cbd4fe,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0351-s002,row-0351,EMP-12cbd4fe,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0352-s002,row-0352,EMP-12cbd4fe,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0353-s002,row-0353,EMP-12cbd4fe,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0354-s002,row-0354,EMP-12cbd4fe,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0364-s002,row-0364,EMP-98fe2809,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0366-s002,row-0366,EMP-98fe2809,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0367-s002,row-0367,EMP-98fe2809,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0401-s002,row-0401,EMP-5ac6a4cc,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0402-s002,row-0402,EMP-5ac6a4cc,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0404-s002,row-0404,EMP-5ac6a4cc,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0405-s002,row-0405,EMP-8b6a5248,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0409-s002,row-0409,EMP-8b6a5248,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0412-s002,row-0412,EMP-8b6a5248,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0418-s002,row-0418,EMP-2b257896,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0418-s003,row-0418,EMP-2b257896,Single,explicit,,deleted,False,False,,0.0
+row-0419-s002,row-0419,EMP-2b257896,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0419-s003,row-0419,EMP-2b257896,Single,explicit,,deleted,False,False,,0.0
+row-0421-s002,row-0421,EMP-ae2825d9,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0422-s002,row-0422,EMP-ae2825d9,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0424-s002,row-0424,EMP-ae2825d9,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0425-s002,row-0425,EMP-ae2825d9,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0426-s002,row-0426,EMP-ae2825d9,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0434-s002,row-0434,EMP-419d7e06,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0441-s002,row-0441,EMP-74a92ac8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0449-s002,row-0449,EMP-ab63be59,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0451-s002,row-0451,EMP-ab63be59,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0452-s002,row-0452,EMP-ab63be59,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0453-s002,row-0453,EMP-ab63be59,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0454-s002,row-0454,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0455-s002,row-0455,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0456-s002,row-0456,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0457-s002,row-0457,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0458-s002,row-0458,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0459-s002,row-0459,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0460-s002,row-0460,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0461-s002,row-0461,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0462-s002,row-0462,EMP-84611866,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0463-s002,row-0463,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0464-s002,row-0464,EMP-84611866,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0465-s002,row-0465,EMP-ca28b963,Single,explicit,,deleted,False,False,,0.0
+row-0471-s002,row-0471,EMP-a5ec0523,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0472-s002,row-0472,EMP-e83068ee,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0472-s003,row-0472,EMP-e83068ee,Single,explicit,,deleted,False,False,,0.0
+row-0473-s002,row-0473,EMP-37e1651a,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0473-s003,row-0473,EMP-37e1651a,Single,explicit,,deleted,False,False,,0.0
+row-0474-s002,row-0474,EMP-37e1651a,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0475-s002,row-0475,EMP-37e1651a,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0477-s002,row-0477,EMP-1f6b38c5,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0481-s002,row-0481,EMP-eec409ce,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0482-s002,row-0482,EMP-eec409ce,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0483-s002,row-0483,EMP-eec409ce,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0491-s002,row-0491,EMP-d2ac651a,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0492-s002,row-0492,EMP-d2ac651a,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0496-s002,row-0496,EMP-1178245a,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0501-s001,row-0501,EMP-1178245a,HR Recruitment Staff (Preferably Male),explicit,HR Recruitment Staff,partial_strip,False,False,none,0.69
+row-0507-s003,row-0507,EMP-0538fac6,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0510-s002,row-0510,EMP-b0cba0f4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0511-s002,row-0511,EMP-b0cba0f4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0511-s003,row-0511,EMP-b0cba0f4,18 to 40 years old,explicit,,deleted,False,False,,0.0
+row-0511-s007,row-0511,EMP-b0cba0f4,Single or Married,explicit,,deleted,False,False,,0.0
+row-0512-s002,row-0512,EMP-965f3d50,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0512-s004,row-0512,EMP-965f3d50,Single/Married,explicit,,deleted,False,False,,0.0
+row-0515-s002,row-0515,EMP-ca28b963,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0515-s004,row-0515,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0516-s002,row-0516,EMP-ca28b963,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0516-s003,row-0516,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0517-s002,row-0517,EMP-ca28b963,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0517-s004,row-0517,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0518-s002,row-0518,EMP-ca28b963,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0518-s004,row-0518,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0519-s002,row-0519,EMP-ca28b963,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0519-s004,row-0519,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0520-s002,row-0520,EMP-ca28b963,Male and Female,explicit,Open to all qualified candidates,template,False,False,none,0.34
+row-0520-s004,row-0520,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0521-s002,row-0521,EMP-ca28b963,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0521-s004,row-0521,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0522-s002,row-0522,EMP-ca28b963,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0522-s004,row-0522,EMP-ca28b963,Single or Married,explicit,,deleted,False,False,,0.0
+row-0528-s002,row-0528,EMP-1d307561,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0539-s002,row-0539,EMP-ac288cc8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0540-s002,row-0540,EMP-ac288cc8,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0541-s002,row-0541,EMP-ac288cc8,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0542-s003,row-0542,EMP-7410bf25,"At least 5'4"" height for Male and 5'0"" for Female",explicit,"At least 5'4"" height for Male and 5'0"" for Female",manual_review,True,True,explicit,1.0
+row-0548-s002,row-0548,EMP-bbf628b3,Male only,explicit,Open to all qualified candidates,template,False,False,none,0.244
+row-0549-s002,row-0549,EMP-50b8f4a8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0550-s002,row-0550,EMP-50b8f4a8,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0551-s002,row-0551,EMP-50b8f4a8,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0552-s002,row-0552,EMP-50b8f4a8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0553-s002,row-0553,EMP-50b8f4a8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0554-s002,row-0554,EMP-50b8f4a8,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0555-s002,row-0555,EMP-50b8f4a8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0556-s002,row-0556,EMP-50b8f4a8,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0557-s002,row-0557,EMP-50b8f4a8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0558-s002,row-0558,EMP-50b8f4a8,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0563-s002,row-0563,EMP-4fab08f8,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0563-s004,row-0563,EMP-4fab08f8,Single,explicit,,deleted,False,False,,0.0
+row-0564-s002,row-0564,EMP-74118d37,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0585-s002,row-0585,EMP-86d29bcc,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0592-s002,row-0592,EMP-497111bb,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0594-s002,row-0594,EMP-4eb751e1,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0602-s002,row-0602,EMP-6c8da7aa,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0603-s002,row-0603,EMP-6c8da7aa,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0604-s002,row-0604,EMP-03239749,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0605-s002,row-0605,EMP-03239749,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0606-s002,row-0606,EMP-65854c1c,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0607-s002,row-0607,EMP-10433fff,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0608-s002,row-0608,EMP-10433fff,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0608-s003,row-0608,EMP-10433fff,Single or Married,explicit,,deleted,False,False,,0.0
+row-0610-s002,row-0610,EMP-ea6f0ed5,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0611-s002,row-0611,EMP-ea6f0ed5,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0612-s002,row-0612,EMP-ea6f0ed5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0613-s004,row-0613,EMP-d67ea559,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0616-s003,row-0616,EMP-318844da,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0617-s002,row-0617,EMP-318844da,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0633-s002,row-0633,EMP-957f35e1,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0634-s002,row-0634,EMP-957f35e1,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0635-s002,row-0635,EMP-e8260207,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0637-s003,row-0637,EMP-49904c28,Female or Male,explicit,Open to all qualified candidates,template,False,False,none,0.304
+row-0648-s002,row-0648,EMP-5ba040df,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0648-s003,row-0648,EMP-5ba040df,Preferably single,explicit,,deleted,False,False,,0.0
+row-0650-s003,row-0650,EMP-6ae2571e,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0651-s003,row-0651,EMP-6ae2571e,"With pleasing personality, female and single",explicit,With pleasing personality,partial_strip,False,True,implicit,0.725
+row-0652-s003,row-0652,EMP-6ae2571e,"With pleasing personality, female and single",explicit,With pleasing personality,partial_strip,False,True,implicit,0.725
+row-0653-s003,row-0653,EMP-6ae2571e,"With pleasing personality, female and single",explicit,With pleasing personality,partial_strip,False,True,implicit,0.725
+row-0654-s002,row-0654,EMP-b78c086d,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0655-s002,row-0655,EMP-b78c086d,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0656-s002,row-0656,EMP-b78c086d,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0657-s002,row-0657,EMP-b78c086d,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0658-s002,row-0658,EMP-b78c086d,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0660-s002,row-0660,EMP-34736e0e,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0668-s002,row-0668,EMP-883fc338,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0670-s002,row-0670,EMP-47f34d2b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0671-s002,row-0671,EMP-47f34d2b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0672-s002,row-0672,EMP-47f34d2b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0673-s002,row-0673,EMP-47f34d2b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0674-s002,row-0674,EMP-47f34d2b,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0675-s002,row-0675,EMP-47f34d2b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0676-s002,row-0676,EMP-47f34d2b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0677-s002,row-0677,EMP-47f34d2b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0678-s002,row-0678,EMP-47f34d2b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0679-s002,row-0679,EMP-47f34d2b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0680-s002,row-0680,EMP-47f34d2b,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0681-s002,row-0681,EMP-47f34d2b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0682-s002,row-0682,EMP-47f34d2b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0685-s006,row-0685,EMP-4d06f57a,Preferably Male,explicit,Open to all qualified candidates,template,False,False,none,0.255
+row-0705-s002,row-0705,EMP-5ce05467,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0706-s002,row-0706,EMP-5ce05467,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0707-s002,row-0707,EMP-5ce05467,Female and Male,explicit,Open to all qualified candidates,template,False,False,none,0.426
+row-0708-s002,row-0708,EMP-5ce05467,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0735-s002,row-0735,EMP-957f35e1,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0736-s002,row-0736,EMP-957f35e1,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0738-s002,row-0738,EMP-6f4b3838,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0743-s002,row-0743,EMP-6f4b3838,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0747-s003,row-0747,EMP-ea6f0ed5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0753-s006,row-0753,EMP-6baeca80,"Ability to lift, carry, push, and pull up to 50 pounds",explicit,"Ability to lift, carry, push, and pull up to 50 pounds",rule_false_positive,True,False,explicit,1.0
+row-0761-s002,row-0761,EMP-ef9dc5a5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0762-s002,row-0762,EMP-14ca6859,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0764-s002,row-0764,EMP-14ca6859,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0765-s002,row-0765,EMP-14ca6859,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0766-s002,row-0766,EMP-14ca6859,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0770-s002,row-0770,EMP-65854c1c,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0771-s002,row-0771,EMP-65854c1c,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0772-s002,row-0772,EMP-65854c1c,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0773-s002,row-0773,EMP-65854c1c,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0802-s002,row-0802,EMP-03239749,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0808-s002,row-0808,EMP-f2d717e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0809-s002,row-0809,EMP-f2d717e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0810-s002,row-0810,EMP-f2d717e4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0824-s002,row-0824,EMP-14ca6859,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0826-s003,row-0826,EMP-d67ea559,Must be female,explicit,Open to all qualified candidates,template,False,False,none,0.217
+row-0831-s002,row-0831,EMP-dd01acfe,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0832-s002,row-0832,EMP-a33cc3fd,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0832-s004,row-0832,EMP-a33cc3fd,Married,explicit,,deleted,False,False,,0.0
+row-0846-s002,row-0846,EMP-85bb1b9d,Preferably Female,explicit,Open to all qualified candidates,template,False,False,none,0.245
+row-0850-s002,row-0850,EMP-85bb1b9d,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0851-s002,row-0851,EMP-65854c1c,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0852-s002,row-0852,EMP-65854c1c,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0863-s003,row-0863,EMP-a29cf2cb,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0871-s002,row-0871,EMP-318844da,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0872-s003,row-0872,EMP-82aa30d2,Preferably female,explicit,Open to all qualified candidates,template,False,False,none,0.245
+row-0895-s002,row-0895,EMP-c8abad9b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0896-s002,row-0896,EMP-c8abad9b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0897-s002,row-0897,EMP-c8abad9b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0898-s002,row-0898,EMP-c8abad9b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0899-s002,row-0899,EMP-c8abad9b,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0900-s002,row-0900,EMP-c8abad9b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0901-s002,row-0901,EMP-c8abad9b,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0902-s002,row-0902,EMP-c8abad9b,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0906-s002,row-0906,EMP-25230a16,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0906-s003,row-0906,EMP-25230a16,Single/Married,explicit,,deleted,False,False,,0.0
+row-0907-s002,row-0907,EMP-25230a16,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0907-s003,row-0907,EMP-25230a16,Single or Married,explicit,,deleted,False,False,,0.0
+row-0908-s002,row-0908,EMP-1bb5d650,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0926-s002,row-0926,EMP-bd1ea1a3,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0937-s002,row-0937,EMP-63aabd62,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0938-s002,row-0938,EMP-63aabd62,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0939-s002,row-0939,EMP-63aabd62,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0940-s002,row-0940,EMP-63aabd62,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0949-s002,row-0949,EMP-14ca6859,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-0967-s003,row-0967,EMP-318844da,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0968-s002,row-0968,EMP-318844da,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-0969-s003,row-0969,EMP-318844da,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0970-s003,row-0970,EMP-318844da,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0974-s003,row-0974,EMP-82aa30d2,Preferably female,explicit,Open to all qualified candidates,template,False,False,none,0.245
+row-0988-s002,row-0988,EMP-1bbe2977,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0989-s002,row-0989,EMP-1bbe2977,At least 5’4”(Female) in height,explicit,At least 5’4”(Female) in height,manual_review,True,True,explicit,1.0
+row-0990-s002,row-0990,EMP-1bbe2977,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0994-s002,row-0994,EMP-2f605b7e,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-0997-s002,row-0997,EMP-23f4f6e1,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-0999-s002,row-0999,EMP-dd98a1e3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1000-s002,row-1000,EMP-a7b783a7,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1001-s002,row-1001,EMP-a7b783a7,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1002-s002,row-1002,EMP-a7b783a7,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1003-s002,row-1003,EMP-a7b783a7,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1004-s002,row-1004,EMP-a7b783a7,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1005-s002,row-1005,EMP-f220871f,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1008-s003,row-1008,EMP-4d06f57a,Preferably Male,explicit,Open to all qualified candidates,template,False,False,none,0.255
+row-1012-s002,row-1012,EMP-6b9c38ee,Male only,explicit,Open to all qualified candidates,template,False,False,none,0.244
+row-1012-s005,row-1012,EMP-6b9c38ee,Preferably Single,explicit,,deleted,False,False,,0.0
+row-1013-s002,row-1013,EMP-6b9c38ee,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1013-s004,row-1013,EMP-6b9c38ee,Preferably Single,explicit,,deleted,False,False,,0.0
+row-1014-s002,row-1014,EMP-6b9c38ee,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1014-s004,row-1014,EMP-6b9c38ee,Preferably Single,explicit,,deleted,False,False,,0.0
+row-1015-s002,row-1015,EMP-6b9c38ee,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1016-s002,row-1016,EMP-6b9c38ee,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1017-s002,row-1017,EMP-6b9c38ee,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1044-s002,row-1044,EMP-25230a16,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1044-s003,row-1044,EMP-25230a16,Single/Married,explicit,,deleted,False,False,,0.0
+row-1045-s002,row-1045,EMP-25230a16,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1045-s003,row-1045,EMP-25230a16,Single/Married,explicit,,deleted,False,False,,0.0
+row-1046-s002,row-1046,EMP-25230a16,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1046-s003,row-1046,EMP-25230a16,Single or Married,explicit,,deleted,False,False,,0.0
+row-1076-s003,row-1076,EMP-6ae2571e,"With pleasing personality, female and single",explicit,With pleasing personality,partial_strip,False,True,implicit,0.725
+row-1082-s002,row-1082,EMP-883fc338,"Male, with valid driver’s license (4-wheel and motorcycle)",explicit,With valid driver’s license (4-wheel and motorcycle),partial_strip,False,False,none,0.945
+row-1105-s003,row-1105,EMP-ea6f0ed5,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1106-s003,row-1106,EMP-ea6f0ed5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1107-s002,row-1107,EMP-ea6f0ed5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1128-s003,row-1128,EMP-cff1b0ba,Preferably male,explicit,Open to all qualified candidates,template,False,False,none,0.255
+row-1129-s004,row-1129,EMP-cff1b0ba,Preferably male,explicit,Open to all qualified candidates,template,False,False,none,0.255
+row-1132-s002,row-1132,EMP-131e1de0,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1133-s002,row-1133,EMP-25230a16,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1140-s002,row-1140,EMP-1cef9013,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1144-s002,row-1144,EMP-63aabd62,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1145-s002,row-1145,EMP-63aabd62,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1146-s002,row-1146,EMP-25230a16,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1149-s002,row-1149,EMP-0042be40,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1151-s002,row-1151,EMP-34fbf9c3,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1152-s002,row-1152,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1153-s002,row-1153,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1153-s003,row-1153,EMP-34fbf9c3,Single or married,explicit,,deleted,False,False,,0.0
+row-1154-s002,row-1154,EMP-0ec15114,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1183-s002,row-1183,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1184-s002,row-1184,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1185-s002,row-1185,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1186-s002,row-1186,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1187-s002,row-1187,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1188-s002,row-1188,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1188-s003,row-1188,EMP-34fbf9c3,Single or Married,explicit,,deleted,False,False,,0.0
+row-1189-s002,row-1189,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1190-s002,row-1190,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1191-s002,row-1191,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1192-s002,row-1192,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1193-s003,row-1193,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1194-s003,row-1194,EMP-34fbf9c3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1196-s003,row-1196,EMP-36f653a2,Preferably Male,explicit,Open to all qualified candidates,template,False,False,none,0.255
+row-1215-s002,row-1215,EMP-63aabd62,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1216-s002,row-1216,EMP-63aabd62,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1217-s002,row-1217,EMP-63aabd62,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1218-s002,row-1218,EMP-b78c086d,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1219-s002,row-1219,EMP-b78c086d,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1220-s002,row-1220,EMP-b78c086d,Male or female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1237-s002,row-1237,EMP-c0a0cb81,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1238-s002,row-1238,EMP-3b86cc96,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1255-s002,row-1255,EMP-14e3ba57,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1256-s002,row-1256,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1257-s002,row-1257,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1258-s002,row-1258,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1259-s002,row-1259,EMP-14e3ba57,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1260-s002,row-1260,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1261-s002,row-1261,EMP-14e3ba57,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1262-s002,row-1262,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1263-s002,row-1263,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1264-s002,row-1264,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1265-s002,row-1265,EMP-14e3ba57,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1266-s002,row-1266,EMP-14e3ba57,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1271-s002,row-1271,EMP-14e3ba57,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1288-s002,row-1288,EMP-ea6f0ed5,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1292-s002,row-1292,EMP-d80c5388,Preferably female,explicit,Open to all qualified candidates,template,False,False,none,0.245
+row-1293-s004,row-1293,EMP-d80c5388,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1320-s002,row-1320,EMP-a3fd664e,Male only,explicit,Open to all qualified candidates,template,False,False,none,0.244
+row-1339-s002,row-1339,EMP-3e28e65f,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1340-s002,row-1340,EMP-3e28e65f,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1341-s002,row-1341,EMP-3e28e65f,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1360-s002,row-1360,EMP-0538fac6,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1363-s004,row-1363,EMP-bfb068e0,Preferably female,explicit,Open to all qualified candidates,template,False,False,none,0.245
+row-1365-s002,row-1365,EMP-9445915f,"Male, Female, LGBT",explicit,"Male, Female, LGBT",manual_review,True,False,explicit,1.0
+row-1370-s003,row-1370,EMP-0538fac6,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1374-s002,row-1374,EMP-dcf414a6,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1375-s002,row-1375,EMP-dcf414a6,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1376-s002,row-1376,EMP-dcf414a6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1377-s002,row-1377,EMP-dcf414a6,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1378-s002,row-1378,EMP-dcf414a6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1379-s002,row-1379,EMP-dcf414a6,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1380-s002,row-1380,EMP-dcf414a6,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1381-s002,row-1381,EMP-bb1c2b5e,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1381-s007,row-1381,EMP-bb1c2b5e,Not more than 35 years old,explicit,,deleted,False,False,,0.0
+row-1382-s002,row-1382,EMP-bb1c2b5e,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1383-s002,row-1383,EMP-bb1c2b5e,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1384-s002,row-1384,EMP-bb1c2b5e,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1385-s002,row-1385,EMP-bb1c2b5e,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1386-s002,row-1386,EMP-f407aa97,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1387-s002,row-1387,EMP-f407aa97,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1388-s002,row-1388,EMP-87cd9e75,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1389-s002,row-1389,EMP-aa0b0e11,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1389-s003,row-1389,EMP-aa0b0e11,Single,explicit,,deleted,False,False,,0.0
+row-1395-s002,row-1395,EMP-c22520e8,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1396-s002,row-1396,EMP-902d3828,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1396-s003,row-1396,EMP-902d3828,20 - 30 yrs old,explicit,,deleted,False,False,,0.0
+row-1397-s002,row-1397,EMP-902d3828,Male/Female,explicit,Open to all qualified candidates,template,False,False,none,0.233
+row-1400-s002,row-1400,EMP-e23393f4,"Male, single/married",explicit,Open to all qualified candidates,template,False,False,none,0.269
+row-1401-s002,row-1401,EMP-e23393f4,"Male, single/married",explicit,Open to all qualified candidates,template,False,False,none,0.269
+row-1405-s002,row-1405,EMP-83bac789,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1406-s002,row-1406,EMP-83bac789,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1407-s002,row-1407,EMP-83bac789,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1408-s002,row-1408,EMP-83bac789,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1409-s002,row-1409,EMP-83bac789,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1410-s002,row-1410,EMP-fd41b05d,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1412-s002,row-1412,EMP-2676dbad,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1414-s002,row-1414,EMP-0fc860f6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1415-s002,row-1415,EMP-d53fbc2d,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1416-s002,row-1416,EMP-f81947cf,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1422-s002,row-1422,EMP-fb652532,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1423-s002,row-1423,EMP-47c4ee5e,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1424-s002,row-1424,EMP-0fc860f6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1425-s002,row-1425,EMP-dd8ddfdd,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1425-s005,row-1425,EMP-dd8ddfdd,Not more than 40 years old,explicit,,deleted,False,False,,0.0
+row-1426-s002,row-1426,EMP-dd8ddfdd,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1426-s005,row-1426,EMP-dd8ddfdd,Not more than 40 years old,explicit,,deleted,False,False,,0.0
+row-1427-s002,row-1427,EMP-dd8ddfdd,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1427-s003,row-1427,EMP-dd8ddfdd,Male preferably can drive,explicit,Male preferably can drive,manual_review,True,False,explicit,1.0
+row-1428-s002,row-1428,EMP-4c7f9c21,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1430-s002,row-1430,EMP-1ae010cf,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1431-s002,row-1431,EMP-b61a9d9f,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1432-s002,row-1432,EMP-b61a9d9f,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1433-s002,row-1433,EMP-b61a9d9f,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1434-s002,row-1434,EMP-7b80db78,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1436-s002,row-1436,EMP-a3523ee6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1437-s002,row-1437,EMP-23fa5678,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1438-s002,row-1438,EMP-23fa5678,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1439-s002,row-1439,EMP-f1139a72,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1440-s002,row-1440,EMP-acc0f315,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1441-s002,row-1441,EMP-acc0f315,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1442-s002,row-1442,EMP-acc0f315,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1443-s002,row-1443,EMP-acc0f315,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1444-s002,row-1444,EMP-acc0f315,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1445-s002,row-1445,EMP-2b52726f,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1446-s002,row-1446,EMP-c53731de,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1447-s002,row-1447,EMP-1ae010cf,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1449-s002,row-1449,EMP-dd8ddfdd,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1450-s002,row-1450,EMP-dd8ddfdd,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1450-s010,row-1450,EMP-dd8ddfdd,Not more than 40 years old,explicit,,deleted,False,False,,0.0
+row-1451-s002,row-1451,EMP-dd8ddfdd,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1451-s007,row-1451,EMP-dd8ddfdd,Not more than 40 years old,explicit,,deleted,False,False,,0.0
+row-1452-s002,row-1452,EMP-dd8ddfdd,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1452-s010,row-1452,EMP-dd8ddfdd,Not more than 40 years old,explicit,,deleted,False,False,,0.0
+row-1453-s002,row-1453,EMP-2b52726f,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1455-s002,row-1455,EMP-bf210692,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1456-s002,row-1456,EMP-b5bb5bb6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1457-s002,row-1457,EMP-b5bb5bb6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1458-s002,row-1458,EMP-b5bb5bb6,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1460-s002,row-1460,EMP-f477f32b,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1461-s002,row-1461,EMP-f477f32b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1462-s002,row-1462,EMP-3756752b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1462-s003,row-1462,EMP-3756752b,Single/Married,explicit,,deleted,False,False,,0.0
+row-1463-s002,row-1463,EMP-3756752b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1463-s003,row-1463,EMP-3756752b,Single/Married,explicit,,deleted,False,False,,0.0
+row-1464-s002,row-1464,EMP-3756752b,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1464-s003,row-1464,EMP-3756752b,Single/Married,explicit,,deleted,False,False,,0.0
+row-1465-s002,row-1465,EMP-f1139a72,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1466-s002,row-1466,EMP-e23393f4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1466-s005,row-1466,EMP-e23393f4,25-35 years old,explicit,,deleted,False,False,,0.0
+row-1467-s002,row-1467,EMP-e23393f4,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1467-s004,row-1467,EMP-e23393f4,20-30 years old,explicit,,deleted,False,False,,0.0
+row-1468-s002,row-1468,EMP-e23393f4,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1470-s003,row-1470,EMP-1ae010cf,Atleast 15-20 years of experience handling Accounting & HR,explicit,Atleast 15-20 years of experience handling Accounting & HR,rule_false_positive,True,False,explicit,1.0
+row-1476-s002,row-1476,EMP-d014b952,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1477-s002,row-1477,EMP-1ae010cf,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1478-s002,row-1478,EMP-1ae010cf,Male or Female,explicit,Open to all qualified candidates,template,False,False,none,0.261
+row-1485-s002,row-1485,EMP-849d6b66,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1486-s002,row-1486,EMP-f1139a72,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1487-s002,row-1487,EMP-f1139a72,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1488-s002,row-1488,EMP-9b5ad3c2,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1489-s002,row-1489,EMP-9b5ad3c2,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1490-s002,row-1490,EMP-9b5ad3c2,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1491-s002,row-1491,EMP-2b52726f,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1492-s002,row-1492,EMP-2b52726f,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1493-s002,row-1493,EMP-2b52726f,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1494-s002,row-1494,EMP-faf32cd3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1495-s002,row-1495,EMP-faf32cd3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1496-s002,row-1496,EMP-faf32cd3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1497-s002,row-1497,EMP-faf32cd3,Male,explicit,Open to all qualified candidates,template,False,False,none,0.167
+row-1498-s002,row-1498,EMP-faf32cd3,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1499-s002,row-1499,EMP-faf32cd3,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211
+row-1500-s002,row-1500,EMP-5f861924,Female,explicit,Open to all qualified candidates,template,False,False,none,0.211

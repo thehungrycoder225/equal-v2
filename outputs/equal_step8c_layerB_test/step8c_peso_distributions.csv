@@ -1,0 +1,21 @@
+,,units
+Layer A type,none,6929
+Layer A type,gender_coded,577
+Layer A type,restriction,299
+Layer A type,binary_listing,106
+Layer A type,gendered_title_pronoun,38
+Layer A type,preference,14
+Layer A type,unclear,8
+Layer B bias_type,none,6929
+Layer B bias_type,unclear,691
+Layer B bias_type,explicit,313
+Layer B bias_type,implicit,38
+Layer B subtype,none,6929
+Layer B subtype,unclear,691
+Layer B subtype,gender_exclusion,299
+Layer B subtype,gendered_role_language,38
+Layer B subtype,gender_preference,14
+rewrite_action,not_needed,6929
+rewrite_action,manual_review,585
+rewrite_action,required,313
+rewrite_action,recommended,144

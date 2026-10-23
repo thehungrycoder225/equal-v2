@@ -1,0 +1,138 @@
+sentence_id,employer_id,sentence,bias_type,tfidf,bert-base-uncased,roberta-base
+row-0026-s002,EMP-8286a68d,Male,explicit,explicit,explicit,none
+row-0036-s002,EMP-dcf414a6,Male,explicit,explicit,explicit,none
+row-0037-s002,EMP-02f15ad6,Male,explicit,explicit,explicit,none
+row-0083-s001,EMP-7f9fab77,Watchman,implicit,none,none,implicit
+row-0097-s002,EMP-01fa72ad,Male,explicit,explicit,explicit,none
+row-0131-s001,EMP-bd1ecdbc,Foreman,implicit,implicit,implicit,none
+row-0176-s001,EMP-04c3c422,Saleslady,implicit,none,none,none
+row-0201-s001,EMP-b7808be6,Foreman (Earthworks and Civil),implicit,implicit,implicit,none
+row-0220-s004,EMP-2ad25376,Single,none,none,none,explicit
+row-0221-s006,EMP-2ad25376,With or without experience as Stockman,none,none,none,implicit
+row-0236-s003,EMP-74cf88c1,Single or Married,none,none,none,explicit
+row-0264-s001,EMP-bef15e94,Warehouseman,none,none,none,explicit
+row-0265-s001,EMP-bef15e94,Foreman (Earthworks/Civil),implicit,implicit,implicit,none
+row-0289-s001,EMP-fb8539f9,Stockman,none,none,implicit,implicit
+row-0330-s004,EMP-484120f5,Single,none,none,none,explicit
+row-0331-s004,EMP-484120f5,Single,none,none,none,explicit
+row-0332-s004,EMP-484120f5,Single,none,none,none,explicit
+row-0333-s004,EMP-484120f5,Single,none,none,none,explicit
+row-0334-s004,EMP-484120f5,Single,none,none,none,explicit
+row-0454-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0455-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0456-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0457-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0458-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0459-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0460-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0461-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0463-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0464-s002,EMP-84611866,Male,explicit,explicit,explicit,implicit
+row-0471-s002,EMP-a5ec0523,Male,explicit,explicit,explicit,implicit
+row-0473-s003,EMP-37e1651a,Single,none,none,none,explicit
+row-0496-s002,EMP-1178245a,Female,explicit,explicit,explicit,none
+row-0501-s001,EMP-1178245a,HR Recruitment Staff (Preferably Male),explicit,explicit,explicit,none
+row-0511-s007,EMP-b0cba0f4,Single or Married,none,none,none,explicit
+row-0515-s006,EMP-ca28b963,At least three years experience as Supervisor,none,implicit,none,none
+row-0522-s006,EMP-ca28b963,At least three years experience as Supervisor,none,implicit,none,none
+row-0539-s002,EMP-ac288cc8,Male,explicit,explicit,explicit,implicit
+row-0592-s002,EMP-497111bb,Male,explicit,explicit,explicit,none
+row-0604-s002,EMP-03239749,Male,explicit,explicit,explicit,none
+row-0605-s002,EMP-03239749,Male,explicit,explicit,explicit,none
+row-0606-s002,EMP-65854c1c,Male,explicit,explicit,explicit,none
+row-0616-s003,EMP-318844da,Male,explicit,explicit,explicit,implicit
+row-0626-s001,EMP-957f35e1,Salesman,implicit,implicit,implicit,none
+row-0635-s002,EMP-e8260207,Female,explicit,explicit,explicit,none
+row-0648-s003,EMP-5ba040df,Preferably single,none,none,explicit,explicit
+row-0668-s002,EMP-883fc338,Male,explicit,explicit,explicit,none
+row-0705-s002,EMP-5ce05467,Male,explicit,explicit,explicit,none
+row-0706-s002,EMP-5ce05467,Male,explicit,explicit,explicit,none
+row-0708-s002,EMP-5ce05467,Male,explicit,explicit,explicit,none
+row-0716-s006,EMP-12432227,Submit Reports Daily & Weekly for sites under he’s area of responsibility,implicit,none,none,none
+row-0761-s002,EMP-ef9dc5a5,Male,explicit,explicit,explicit,implicit
+row-0767-s001,EMP-14ca6859,JR Relief Salesman,implicit,implicit,implicit,explicit
+row-0770-s002,EMP-65854c1c,Male,explicit,explicit,explicit,none
+row-0771-s002,EMP-65854c1c,Male,explicit,explicit,explicit,none
+row-0772-s002,EMP-65854c1c,Male,explicit,explicit,explicit,none
+row-0773-s002,EMP-65854c1c,Female,explicit,explicit,explicit,none
+row-0786-s001,EMP-883fc338,Construction Foreman,implicit,implicit,implicit,none
+row-0802-s002,EMP-03239749,Male,explicit,explicit,explicit,none
+row-0808-s002,EMP-f2d717e4,Male,explicit,explicit,explicit,implicit
+row-0809-s002,EMP-f2d717e4,Male,explicit,explicit,explicit,implicit
+row-0810-s002,EMP-f2d717e4,Male,explicit,explicit,explicit,implicit
+row-0825-s001,EMP-14ca6859,JR Relief Salesman,implicit,implicit,implicit,explicit
+row-0826-s003,EMP-d67ea559,Must be female,explicit,explicit,explicit,none
+row-0846-s002,EMP-85bb1b9d,Preferably Female,explicit,explicit,explicit,none
+row-0850-s002,EMP-85bb1b9d,Female,explicit,explicit,explicit,none
+row-0851-s002,EMP-65854c1c,Male,explicit,explicit,explicit,none
+row-0852-s002,EMP-65854c1c,Male,explicit,explicit,explicit,none
+row-0870-s001,EMP-a29cf2cb,Foreman,implicit,implicit,implicit,explicit
+row-0872-s003,EMP-82aa30d2,Preferably female,explicit,explicit,explicit,none
+row-0882-s001,EMP-b9295be7,General Foreman,implicit,implicit,implicit,explicit
+row-0906-s003,EMP-25230a16,Single/Married,none,none,none,explicit
+row-0907-s003,EMP-25230a16,Single or Married,none,none,none,explicit
+row-0907-s007,EMP-25230a16,Act as Supplies Comptroller,none,implicit,none,none
+row-0948-s003,EMP-14ca6859,With at least 2 years experience as salesman,implicit,implicit,none,none
+row-0950-s001,EMP-14ca6859,Jr Relief Salesman,implicit,implicit,implicit,explicit
+row-0951-s001,EMP-14ca6859,Booking Salesman Reliever,implicit,implicit,none,none
+row-0951-s003,EMP-14ca6859,With at least 2 years experience as booking salesman,implicit,implicit,none,none
+row-0967-s003,EMP-318844da,Male,explicit,explicit,explicit,implicit
+row-0969-s003,EMP-318844da,Male,explicit,explicit,explicit,implicit
+row-0970-s003,EMP-318844da,Male,explicit,explicit,explicit,implicit
+row-0974-s003,EMP-82aa30d2,Preferably female,explicit,explicit,explicit,none
+row-0997-s002,EMP-23f4f6e1,Male,explicit,explicit,explicit,none
+row-1000-s002,EMP-a7b783a7,Male,explicit,explicit,explicit,implicit
+row-1016-s001,EMP-6b9c38ee,Carpenter,none,none,implicit,none
+row-1044-s003,EMP-25230a16,Single/Married,none,none,none,explicit
+row-1045-s003,EMP-25230a16,Single/Married,none,none,none,explicit
+row-1046-s003,EMP-25230a16,Single or Married,none,none,none,explicit
+row-1090-s003,EMP-14ca6859,With atleast 2 years experience as salesman,implicit,implicit,none,none
+row-1091-s001,EMP-14ca6859,JR Relief Salesman,implicit,implicit,implicit,explicit
+row-1092-s001,EMP-14ca6859,SR Relief Salesman,implicit,implicit,implicit,explicit
+row-1132-s002,EMP-131e1de0,Female,explicit,explicit,explicit,none
+row-1152-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1153-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1183-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1184-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1185-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1186-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1187-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1188-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1189-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1190-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1191-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1192-s002,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1193-s003,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1194-s003,EMP-34fbf9c3,Male,explicit,explicit,explicit,none
+row-1196-s003,EMP-36f653a2,Preferably Male,explicit,explicit,explicit,none
+row-1238-s002,EMP-3b86cc96,Male,explicit,explicit,explicit,implicit
+row-1255-s002,EMP-14e3ba57,Male,explicit,explicit,explicit,implicit
+row-1259-s002,EMP-14e3ba57,Male,explicit,explicit,explicit,implicit
+row-1261-s002,EMP-14e3ba57,Male,explicit,explicit,explicit,implicit
+row-1266-s002,EMP-14e3ba57,Male,explicit,explicit,explicit,implicit
+row-1271-s002,EMP-14e3ba57,Male,explicit,explicit,explicit,implicit
+row-1291-s001,EMP-14ca6859,Micro D Salesman,implicit,implicit,implicit,explicit
+row-1320-s002,EMP-a3fd664e,Male only,explicit,explicit,explicit,none
+row-1363-s004,EMP-bfb068e0,Preferably female,explicit,explicit,explicit,none
+row-1376-s002,EMP-dcf414a6,Male,explicit,explicit,explicit,none
+row-1377-s002,EMP-dcf414a6,Female,explicit,explicit,explicit,none
+row-1378-s002,EMP-dcf414a6,Male,explicit,explicit,explicit,none
+row-1384-s001,EMP-bb1c2b5e,Steel man,none,none,none,explicit
+row-1388-s002,EMP-87cd9e75,Female,explicit,explicit,explicit,none
+row-1389-s003,EMP-aa0b0e11,Single,none,none,none,explicit
+row-1400-s002,EMP-e23393f4,"Male, single/married",explicit,none,explicit,none
+row-1401-s002,EMP-e23393f4,"Male, single/married",explicit,none,explicit,none
+row-1415-s002,EMP-d53fbc2d,Male,explicit,explicit,explicit,implicit
+row-1422-s002,EMP-fb652532,Male,explicit,explicit,explicit,none
+row-1427-s003,EMP-dd8ddfdd,Male preferably can drive,explicit,none,explicit,none
+row-1428-s002,EMP-4c7f9c21,Male,explicit,explicit,explicit,implicit
+row-1431-s002,EMP-b61a9d9f,Male,explicit,explicit,explicit,none
+row-1432-s002,EMP-b61a9d9f,Male,explicit,explicit,explicit,none
+row-1433-s002,EMP-b61a9d9f,Male,explicit,explicit,explicit,none
+row-1437-s002,EMP-23fa5678,Male,explicit,explicit,explicit,implicit
+row-1438-s002,EMP-23fa5678,Male,explicit,explicit,explicit,implicit
+row-1455-s002,EMP-bf210692,Male,explicit,explicit,explicit,none
+row-1476-s002,EMP-d014b952,Male,explicit,explicit,explicit,implicit
+row-1477-s002,EMP-1ae010cf,Male,explicit,explicit,explicit,implicit
+row-1488-s002,EMP-9b5ad3c2,Male,explicit,explicit,explicit,implicit
+row-1490-s002,EMP-9b5ad3c2,Male,explicit,explicit,explicit,implicit

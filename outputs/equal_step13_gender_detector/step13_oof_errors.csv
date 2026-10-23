@@ -1,0 +1,10 @@
+sentence_id,employer_id,sentence,bias_type,pred3
+row-0083-s001,EMP-7f9fab77,Watchman,implicit,none
+row-0176-s001,EMP-04c3c422,Saleslady,implicit,none
+row-0515-s006,EMP-ca28b963,At least three years experience as Supervisor,none,implicit
+row-0522-s006,EMP-ca28b963,At least three years experience as Supervisor,none,implicit
+row-0716-s006,EMP-12432227,Submit Reports Daily & Weekly for sites under he’s area of responsibility,implicit,none
+row-0907-s007,EMP-25230a16,Act as Supplies Comptroller,none,implicit
+row-1400-s002,EMP-e23393f4,"Male, single/married",explicit,none
+row-1401-s002,EMP-e23393f4,"Male, single/married",explicit,none
+row-1427-s003,EMP-dd8ddfdd,Male preferably can drive,explicit,none

@@ -1,0 +1,4 @@
+metric,precision,recall,F1,F1_95CI
+exact match,1.0,0.954,0.977,0.951-0.995
+overlap (IoU>=0.5),1.0,0.954,0.977,0.951-0.995
+token overlap,1.0,0.954,0.977,0.951-0.995
